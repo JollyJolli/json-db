@@ -1,0 +1,205 @@
+{
+  "horarios": [
+    {
+      "dia": "lunes",
+      "horario": [
+        {
+          "periodo": "07:30-08:20",
+          "clase": "Literatura 208"
+        },
+        {
+          "periodo": "08:20-09:10",
+          "clase": "Historia de Méx. 207"
+        },
+        {
+          "periodo": "09:10-10:00",
+          "clase": "Matemáticas 201 / 202"
+        },
+        {
+          "periodo": "10:00-10:50",
+          "clase": "Francés 008 / 201"
+        },
+        {
+          "periodo": "10:50-11:40",
+          "clase": "Recreo"
+        },
+        {
+          "periodo": "11:40-12:30",
+          "clase": "O. Vocacional 208"
+        },
+        {
+          "periodo": "12:30-13:20",
+          "clase": "Física 203 / LAB"
+        },
+        {
+          "periodo": "13:20-14:10",
+          "clase": "Redes de Comp. 004"
+        },
+        {
+          "periodo": "14:10-15:00",
+          "clase": "Inglés 206 / 203"
+        }
+      ]
+    },
+    {
+      "dia": "martes",
+      "horario": [
+        {
+          "periodo": "07:30-08:20",
+          "clase": "Redes de Comp. 004"
+        },
+        {
+          "periodo": "08:20-09:10",
+          "clase": "Biología 204"
+        },
+        {
+          "periodo": "09:10-10:00",
+          "clase": "Literatura 208"
+        },
+        {
+          "periodo": "10:00-10:50",
+          "clase": "Inglés 206 / 203"
+        },
+        {
+          "periodo": "10:50-11:40",
+          "clase": "Recreo"
+        },
+        {
+          "periodo": "11:40-12:30",
+          "clase": "Historia de Méx. 202"
+        },
+        {
+          "periodo": "12:30-13:20",
+          "clase": "Comunidades Virt. 004"
+        },
+        {
+          "periodo": "13:20-14:10",
+          "clase": "Física 203"
+        },
+        {
+          "periodo": "14:10-15:00",
+          "clase": "Matemáticas 201 / 202"
+        }
+      ]
+    },
+    {
+      "dia": "miércoles",
+      "horario": [
+        {
+          "periodo": "07:30-08:20",
+          "clase": "Comunidades Virt. 004"
+        },
+        {
+          "periodo": "08:20-09:10",
+          "clase": "Historia de Méx. 202"
+        },
+        {
+          "periodo": "09:10-10:00",
+          "clase": "Inglés 206 / 203"
+        },
+        {
+          "periodo": "10:00-10:50",
+          "clase": "Act. Deportivas Canchas"
+        },
+        {
+          "periodo": "10:50-11:40",
+          "clase": "Recreo"
+        },
+        {
+          "periodo": "11:40-12:30",
+          "clase": "Francés 008 / 207"
+        },
+        {
+          "periodo": "12:30-13:20",
+          "clase": "Inglés 206 / 204"
+       },
+        {
+          "periodo": "13:20-14:10",
+          "clase": "Matemáticas 201 / 202"
+        },
+        {
+          "periodo": "14:10-15:00",
+          "clase": "Salida"
+        }
+      ]
+    },
+    {
+      "dia": "jueves",
+      "horario": [
+        {
+          "periodo": "07:30-08:20",
+          "clase": "Literatura 208"
+        },
+        {
+          "periodo": "08:20-09:10",
+          "clase": "Lab. Biología 204"
+        },
+        {
+          "periodo": "09:10-10:00",
+          "clase": "Biología 204"
+        },
+        {
+          "periodo": "10:00-10:50",
+          "clase": "Física 203"
+        },
+        {
+          "periodo": "10:50-11:40",
+          "clase": "Recreo"
+        },
+        {
+          "periodo": "11:40-12:30",
+          "clase": "Inglés 206 / 203"
+        },
+        {
+          "periodo": "12:30-13:20",
+          "clase": "Salud Integral 207"
+        },
+        {
+          "periodo": "13:20-14:10",
+          "clase": "Matemáticas 201 / 202"
+        },
+        {
+          "periodo": "14:10-15:00",
+          "clase": "Salida"
+        }
+      ]
+    },
+    {
+      "dia": "viernes",
+      "horario": [
+        {
+          "periodo": "07:30-09:10",
+          "clase": "Tu Taller"
+        },
+        {
+          "periodo": "09:10-10:00",
+          "clase": "Matemáticas 201 / 202"
+        },
+        {
+          "periodo": "10:00-10:50",
+          "clase": "Biología 204"
+        },
+        {
+          "periodo": "10:50-11:40",
+          "clase": "Recreo"
+        },
+        {
+          "periodo": "11:40-12:30",
+          "clase": "Historia de Méx. 202"
+        },
+        {
+          "periodo": "12:30-13:20",
+          "clase": "Literatura 206"
+        },
+        {
+          "periodo": "13:20-14:10",
+          "clase": "Física 203"
+        },
+        {
+          "periodo": "14:10-15:00",
+          "clase": "Salida"
+        }
+      ]
+    }
+  ]
+}
