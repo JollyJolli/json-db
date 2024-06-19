@@ -67,8 +67,15 @@
       "link": "https://qr.formen.cc",
       "titulo": "Generador de QRs",
       "descripcion": "¡Crea tu propio QR!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-qrcode"
+    },
+    {
+      "link": "https://clima.formen.cc",
+      "titulo": "Clima",
+      "descripcion": "¡Consulta el clima de cualquier ciudad!",
+      "nueva": true,
+      "icon": "fa-solid fa-cloud-sun"
     }
   ]
 }
