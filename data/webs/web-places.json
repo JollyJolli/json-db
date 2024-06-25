@@ -76,6 +76,20 @@
       "descripcion": "¡Consulta el clima de tu ciudad!",
       "nueva": true,
       "icon": "fa-solid fa-cloud-sun"
+    },
+    {
+      "link": "https://tip.formen.cc",
+      "titulo": "Calculador de Propinas",
+      "descripcion": "¡Calcula fácilmente la propina que debes dejar en tus comidas y servicios!",
+      "nueva": true,
+      "icon": "fa-solid fa-calculator"
+    },
+    {
+      "link": "https://spacex.formen.cc",
+      "titulo": "SpaceX",
+      "descripcion": "¡Descubre el último lanzamiento de SpaceX y explora su historial de eventos!",
+      "nueva": true,
+      "icon": "fa-solid fa-rocket"
     }
   ]
 }
