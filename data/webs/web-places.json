@@ -59,7 +59,7 @@
     {
       "link": "https://paises.formen.cc",
       "titulo": "Buscar Paises",
-      "descripcion": "¡Busca informacion de distintos paises!",
+      "descripcion": "¡Busca información de distintos países!",
       "nueva": false,
       "icon": "fa-solid fa-globe"
     },
@@ -87,9 +87,16 @@
     {
       "link": "https://spacex.formen.cc",
       "titulo": "SpaceX",
-      "descripcion": "¡Descubre el último lanzamiento de SpaceX y explora su historial de eventos!",
+      "descripcion": "¡Descubre el último lanzamiento de SpaceX y explora el historial de eventos!",
       "nueva": true,
       "icon": "fa-solid fa-rocket"
+    },
+    {
+      "link": "https://usa.formen.cc",
+      "titulo": "Presidentes de EE.UU.",
+      "descripcion": "¡Explora la lista completa de todos los presidentes que ha tenido Estados Unidos!",
+      "nueva": true,
+      "icon": "fa-solid fa-landmark"
     }
   ]
 }
