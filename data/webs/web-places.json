@@ -111,6 +111,14 @@
       "nueva": true,
       "icon": "fa-solid fa-landmark",
       "act": false
+    },
+    {
+      "link": "https://lastfm.formen.cc",
+      "titulo": "Last.fm",
+      "descripcion": "Busca la informacion de cualquier usuario de last.fm!",
+      "nueva": true,
+      "icon": "fa-solid fa-music",
+      "act": false
     }
   ]
 }
