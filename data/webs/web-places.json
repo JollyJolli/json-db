@@ -83,7 +83,7 @@
     {
       "link": "https://clima.formen.cc",
       "titulo": "Clima",
-      "descripcion": "¡Consulta el clima de tu ciudad!",
+      "descripcion": "¡Consulta el clima de tu ciudad de una forma interesante!",
       "nueva": true,
       "icon": "fa-solid fa-cloud-sun",
       "act": false
