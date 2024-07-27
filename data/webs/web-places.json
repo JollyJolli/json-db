@@ -3,7 +3,7 @@
     {
       "link": "https://sports.formen.cc",
       "titulo": "Deportes",
-      "descripcion": "¡Busca información sobre jugadores de varios deportes!",
+      "descripcion": "⚽ ¡Busca información sobre jugadores de varios deportes!",
       "nueva": false,
       "icon": "fa-solid fa-football-ball",
       "act": false
@@ -11,7 +11,7 @@
     {
       "link": "https://cktls.formen.cc",
       "titulo": "Cocteles",
-      "descripcion": "¡Busca información sobre cocteles!",
+      "descripcion": "🍹 ¡Busca información sobre cocteles!",
       "nueva": false,
       "icon": "fa-solid fa-glass-martini",
       "act": false
@@ -19,7 +19,7 @@
     {
       "link": "https://flag-game.formen.cc",
       "titulo": "¡Adivina la Bandera!",
-      "descripcion": "¡Un juego sencillo de adivinar la bandera!",
+      "descripcion": "🌍 ¡Un juego sencillo de adivinar la bandera!",
       "nueva": false,
       "icon": "fa-solid fa-flag",
       "act": false
@@ -27,7 +27,7 @@
     {
       "link": "https://rm.formen.cc",
       "titulo": "Rick and Morty Characters",
-      "descripcion": "¡Busca personajes de Rick and Morty!",
+      "descripcion": "🚀 ¡Busca personajes de Rick and Morty!",
       "nueva": false,
       "icon": "fa-solid fa-user-astronaut",
       "act": true
@@ -35,7 +35,7 @@
     {
       "link": "https://food.formen.cc",
       "titulo": "Comida",
-      "descripcion": "¡Busca información sobre comida!",
+      "descripcion": "🍽️ ¡Busca información sobre comida!",
       "nueva": false,
       "icon": "fa-solid fa-utensils",
       "act": false
@@ -43,7 +43,7 @@
     {
       "link": "https://disney.formen.cc",
       "titulo": "Disney",
-      "descripcion": "¡Busca personajes de Disney!",
+      "descripcion": "✨ ¡Busca personajes de Disney!",
       "nueva": false,
       "icon": "fa-solid fa-magic",
       "act": false
@@ -51,7 +51,7 @@
     {
       "link": "https://office.formen.cc",
       "titulo": "The Office",
-      "descripcion": "¡Busca personajes de The Office!",
+      "descripcion": "📋 ¡Busca personajes de The Office!",
       "nueva": false,
       "icon": "fa-solid fa-briefcase",
       "act": false
@@ -59,7 +59,7 @@
     {
       "link": "https://btc.formen.cc",
       "titulo": "Bitcoin",
-      "descripcion": "¡Obtén el valor de bitcoin en dólares!",
+      "descripcion": "💰 ¡Obtén el valor de bitcoin en dólares!",
       "nueva": false,
       "icon": "fa-brands fa-bitcoin",
       "act": false
@@ -67,7 +67,7 @@
     {
       "link": "https://paises.formen.cc",
       "titulo": "Buscar Paises",
-      "descripcion": "¡Busca información de distintos países!",
+      "descripcion": "🌎 ¡Busca información de distintos países!",
       "nueva": false,
       "icon": "fa-solid fa-globe",
       "act": false
@@ -75,7 +75,7 @@
     {
       "link": "https://qr.formen.cc",
       "titulo": "Generador de QRs",
-      "descripcion": "¡Crea tu propio QR!",
+      "descripcion": "📱 ¡Crea tu propio QR!",
       "nueva": false,
       "icon": "fa-solid fa-qrcode",
       "act": false
@@ -83,7 +83,7 @@
     {
       "link": "https://clima.formen.cc",
       "titulo": "Clima",
-      "descripcion": "¡Consulta el clima de tu ciudad de una forma interesante!",
+      "descripcion": "☀️ ¡Consulta el clima de tu ciudad de una forma interesante!",
       "nueva": true,
       "icon": "fa-solid fa-cloud-sun",
       "act": false
@@ -91,7 +91,7 @@
     {
       "link": "https://tip.formen.cc",
       "titulo": "Calculador de Propinas",
-      "descripcion": "¡Calcula fácilmente la propina que debes dejar en tus comidas y servicios!",
+      "descripcion": "💵 ¡Calcula fácilmente la propina que debes dejar en tus comidas y servicios!",
       "nueva": true,
       "icon": "fa-solid fa-calculator",
       "act": false
@@ -99,7 +99,7 @@
     {
       "link": "https://spacex.formen.cc",
       "titulo": "SpaceX",
-      "descripcion": "¡Descubre el último lanzamiento de SpaceX y explora el historial de eventos!",
+      "descripcion": "🚀 ¡Descubre el último lanzamiento de SpaceX y explora el historial de eventos!",
       "nueva": true,
       "icon": "fa-solid fa-rocket",
       "act": false
@@ -107,7 +107,7 @@
     {
       "link": "https://usa.formen.cc",
       "titulo": "Presidentes de EE.UU.",
-      "descripcion": "¡Explora la lista completa de todos los presidentes que ha tenido Estados Unidos!",
+      "descripcion": "🇺🇸 ¡Explora la lista completa de todos los presidentes que ha tenido Estados Unidos!",
       "nueva": true,
       "icon": "fa-solid fa-landmark",
       "act": false
@@ -115,9 +115,17 @@
     {
       "link": "https://lastfm.formen.cc",
       "titulo": "Last.fm",
-      "descripcion": "Busca la informacion de cualquier usuario de last.fm!",
+      "descripcion": "🎵 Busca la informacion de cualquier usuario de last.fm!",
       "nueva": true,
       "icon": "fa-solid fa-music",
+      "act": false
+    },
+    {
+      "link": "https://taximetro.formen.cc",
+      "titulo": "Taxímetro",
+      "descripcion": "🚖 ¡Calcula el valor que obtendrá el taxímetro al final del recorrido!",
+      "nueva": true,
+      "icon": "fa-solid fa-tachometer-alt",
       "act": false
     }
   ]
