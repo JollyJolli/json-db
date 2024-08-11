@@ -30,7 +30,7 @@
       "descripcion": "🚀 ¡Busca personajes de Rick and Morty!",
       "nueva": false,
       "icon": "fa-solid fa-user-astronaut",
-      "act": true
+      "act": false
     },
     {
       "link": "https://food.formen.cc",
@@ -84,7 +84,7 @@
       "link": "https://clima.formen.cc",
       "titulo": "Clima",
       "descripcion": "☀️ ¡Consulta el clima de tu ciudad de una forma interesante!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-cloud-sun",
       "act": false
     },
@@ -92,7 +92,7 @@
       "link": "https://tip.formen.cc",
       "titulo": "Calculador de Propinas",
       "descripcion": "💵 ¡Calcula fácilmente la propina que debes dejar en tus comidas y servicios!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-calculator",
       "act": false
     },
@@ -108,7 +108,7 @@
       "link": "https://usa.formen.cc",
       "titulo": "Presidentes de EE.UU.",
       "descripcion": "🇺🇸 ¡Explora la lista completa de todos los presidentes que ha tenido Estados Unidos!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-landmark",
       "act": false
     },
