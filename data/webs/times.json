@@ -1,4 +1,21 @@
 {
+  "iconos": {
+    "Literatura 208": "fas fa-book",
+    "Historia de Méx. 207": "fas fa-landmark",
+    "Matemáticas 201 / 202": "fas fa-square-root-alt",
+    "Francés 008 / 201": "fas fa-language",
+    "Recreo": "fas fa-coffee",
+    "O. Vocacional 208": "fas fa-user-graduate",
+    "Física 203 / LAB": "fas fa-atom",
+    "Redes de Comp. 004": "fas fa-network-wired",
+    "Inglés 206 / 203": "fas fa-globe",
+    "Biología 204": "fas fa-leaf",
+    "Comunidades Virt. 004": "fas fa-users",
+    "Act. Deportivas Canchas": "fas fa-basketball-ball",
+    "Salud Integral 207": "fas fa-heartbeat",
+    "Tu Taller": "fas fa-tools",
+    "Salida": "fas fa-door-open"
+  },
   "horarios": [
     {
       "dia": "lunes",
