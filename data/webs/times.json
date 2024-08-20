@@ -1,60 +1,57 @@
 {
   "iconos": {
-    "Literatura 208": "fas fa-book",
-    "Historia de Méx. 207": "fas fa-landmark",
-    "Matemáticas 201 / 202": "fas fa-square-root-alt",
-    "Francés 008 / 201": "fas fa-language",
-    "Recreo": "fas fa-coffee",
-    "O. Vocacional 208": "fas fa-user-graduate",
-    "Física 203 / LAB": "fas fa-atom",
-    "Redes de Comp. 004": "fas fa-network-wired",
-    "Inglés 206 / 203": "fas fa-globe",
-    "Biología 204": "fas fa-leaf",
-    "Comunidades Virt. 004": "fas fa-users",
-    "Act. Deportivas Canchas": "fas fa-basketball-ball",
-    "Salud Integral 207": "fas fa-heartbeat",
-    "Tu Taller": "fas fa-tools",
-    "Salida": "fas fa-door-open"
+    "Integrated Health for Adolescent 206": "fas fa-heartbeat",
+    "Economy 201": "fas fa-chart-line",
+    "Actividades Físicas y Deportivas 3 Cancha": "fas fa-basketball-ball",
+    "English 206 / 207 / 204": "fas fa-globe",
+    "Creativity 207": "fas fa-paint-brush",
+    "Temas Selectos de Biología 206 / 204": "fas fa-dna",
+    "Selected Topics in Physical Chemistry 208": "fas fa-flask",
+    "Informatica Aplicada 206 / Computación": "fas fa-laptop-code",
+    "Programming 207": "fas fa-code",
+    "Introducción a la Filosofía 207": "fas fa-book",
+    "Matemáticas 5 204": "fas fa-square-root-alt",
+    "Sistemas de la Información II 204 / Computación": "fas fa-database",
+    "Geografía 201": "fas fa-globe-americas",
+    "Derecho I 206": "fas fa-gavel",
+    "Derecho II 207": "fas fa-balance-scale",
+    "Español y Literatura 207": "fas fa-book-reader"
   },
   "horarios": [
     {
       "dia": "lunes",
       "horario": [
         {
-          "periodo": "07:30-08:20",
-          "clase": "Literatura 208"
+          "periodo": "07:20-08:10",
+          "clase": "Integrated Health for Adolescent 206"
         },
         {
-          "periodo": "08:20-09:10",
-          "clase": "Historia de Méx. 207"
+          "periodo": "08:10-09:00",
+          "clase": "Economy 201"
         },
         {
-          "periodo": "09:10-10:00",
-          "clase": "Matemáticas 201 / 202"
+          "periodo": "09:00-09:50",
+          "clase": "Actividades Físicas y Deportivas 3 Cancha"
         },
         {
-          "periodo": "10:00-10:50",
-          "clase": "Francés 008 / 201"
+          "periodo": "09:50-10:40",
+          "clase": "English 206"
         },
         {
-          "periodo": "10:50-11:40",
-          "clase": "Recreo"
+          "periodo": "10:40-11:30",
+          "clase": "Creativity 207"
         },
         {
-          "periodo": "11:40-12:30",
-          "clase": "O. Vocacional 208"
+          "periodo": "11:30-12:20",
+          "clase": "Temas Selectos de Biología 206"
         },
         {
-          "periodo": "12:30-13:20",
-          "clase": "Física 203 / LAB"
+          "periodo": "12:20-13:10",
+          "clase": "Selected Topics in Physical Chemistry 208"
         },
         {
-          "periodo": "13:20-14:10",
-          "clase": "Redes de Comp. 004"
-        },
-        {
-          "periodo": "14:10-15:00",
-          "clase": "Inglés 206 / 203"
+          "periodo": "13:10-14:00",
+          "clase": "Matemáticas 5 204"
         }
       ]
     },
@@ -62,40 +59,36 @@
       "dia": "martes",
       "horario": [
         {
-          "periodo": "07:30-08:20",
-          "clase": "Redes de Comp. 004"
+          "periodo": "07:20-08:10",
+          "clase": "Geografía 201"
         },
         {
-          "periodo": "08:20-09:10",
-          "clase": "Biología 204"
+          "periodo": "08:10-09:00",
+          "clase": "Derecho I 206"
         },
         {
-          "periodo": "09:10-10:00",
-          "clase": "Literatura 208"
+          "periodo": "09:00-09:50",
+          "clase": "Economy 201"
         },
         {
-          "periodo": "10:00-10:50",
-          "clase": "Inglés 206 / 203"
+          "periodo": "09:50-10:40",
+          "clase": "English 206"
         },
         {
-          "periodo": "10:50-11:40",
-          "clase": "Recreo"
+          "periodo": "10:40-11:30",
+          "clase": "Actividades Físicas y Deportivas 3 Cancha"
         },
         {
-          "periodo": "11:40-12:30",
-          "clase": "Historia de Méx. 202"
+          "periodo": "11:30-12:20",
+          "clase": "Derecho II 207"
         },
         {
-          "periodo": "12:30-13:20",
-          "clase": "Comunidades Virt. 004"
+          "periodo": "12:20-13:10",
+          "clase": "Informatica Aplicada 206"
         },
         {
-          "periodo": "13:20-14:10",
-          "clase": "Física 203"
-        },
-        {
-          "periodo": "14:10-15:00",
-          "clase": "Matemáticas 201 / 202"
+          "periodo": "13:10-14:00",
+          "clase": "Matemáticas 5 204"
         }
       ]
     },
@@ -103,40 +96,36 @@
       "dia": "miércoles",
       "horario": [
         {
-          "periodo": "07:30-08:20",
-          "clase": "Comunidades Virt. 004"
+          "periodo": "07:20-08:10",
+          "clase": "English 206"
         },
         {
-          "periodo": "08:20-09:10",
-          "clase": "Historia de Méx. 202"
+          "periodo": "08:10-09:00",
+          "clase": "Actividades Físicas y Deportivas 3 Cancha"
         },
         {
-          "periodo": "09:10-10:00",
-          "clase": "Inglés 206 / 203"
+          "periodo": "09:00-09:50",
+          "clase": "Informatica Aplicada 206"
         },
         {
-          "periodo": "10:00-10:50",
-          "clase": "Act. Deportivas Canchas"
+          "periodo": "09:50-10:40",
+          "clase": "Introducción a la Filosofía 207"
         },
         {
-          "periodo": "10:50-11:40",
-          "clase": "Recreo"
+          "periodo": "10:40-11:30",
+          "clase": "Creativity 207"
         },
         {
-          "periodo": "11:40-12:30",
-          "clase": "Francés 008 / 207"
+          "periodo": "11:30-12:20",
+          "clase": "Temas Selectos de Biología 206"
         },
         {
-          "periodo": "12:30-13:20",
-          "clase": "Inglés 206 / 204"
-       },
-        {
-          "periodo": "13:20-14:10",
-          "clase": "Matemáticas 201 / 202"
+          "periodo": "12:20-13:10",
+          "clase": "Español y Literatura 207"
         },
         {
-          "periodo": "14:10-15:00",
-          "clase": "Salida"
+          "periodo": "13:10-14:00",
+          "clase": "Matemáticas 5 204"
         }
       ]
     },
@@ -144,40 +133,36 @@
       "dia": "jueves",
       "horario": [
         {
-          "periodo": "07:30-08:20",
-          "clase": "Literatura 208"
+          "periodo": "07:20-08:10",
+          "clase": "Integrated Health for Adolescent 206"
         },
         {
-          "periodo": "08:20-09:10",
-          "clase": "Lab. Biología 204"
+          "periodo": "08:10-09:00",
+          "clase": "Economy 201"
         },
         {
-          "periodo": "09:10-10:00",
-          "clase": "Biología 204"
+          "periodo": "09:00-09:50",
+          "clase": "Actividades Físicas y Deportivas 3 Cancha"
         },
         {
-          "periodo": "10:00-10:50",
-          "clase": "Física 203"
+          "periodo": "09:50-10:40",
+          "clase": "English 206"
         },
         {
-          "periodo": "10:50-11:40",
-          "clase": "Recreo"
+          "periodo": "10:40-11:30",
+          "clase": "Sistemas de la Información II 204"
         },
         {
-          "periodo": "11:40-12:30",
-          "clase": "Inglés 206 / 203"
+          "periodo": "11:30-12:20",
+          "clase": "Programming 207"
         },
         {
-          "periodo": "12:30-13:20",
-          "clase": "Salud Integral 207"
+          "periodo": "12:20-13:10",
+          "clase": "Selected Topics in Physical Chemistry 208"
         },
         {
-          "periodo": "13:20-14:10",
-          "clase": "Matemáticas 201 / 202"
-        },
-        {
-          "periodo": "14:10-15:00",
-          "clase": "Salida"
+          "periodo": "13:10-14:00",
+          "clase": "Matemáticas 5 204"
         }
       ]
     },
@@ -185,36 +170,36 @@
       "dia": "viernes",
       "horario": [
         {
-          "periodo": "07:30-09:10",
-          "clase": "Tu Taller"
+          "periodo": "07:20-08:10",
+          "clase": "Geografía 201"
         },
         {
-          "periodo": "09:10-10:00",
-          "clase": "Matemáticas 201 / 202"
+          "periodo": "08:10-09:00",
+          "clase": "Derecho I 206"
         },
         {
-          "periodo": "10:00-10:50",
-          "clase": "Biología 204"
+          "periodo": "09:00-09:50",
+          "clase": "Economy 201"
         },
         {
-          "periodo": "10:50-11:40",
-          "clase": "Recreo"
+          "periodo": "09:50-10:40",
+          "clase": "English 206"
         },
         {
-          "periodo": "11:40-12:30",
-          "clase": "Historia de Méx. 202"
+          "periodo": "10:40-11:30",
+          "clase": "Actividades Físicas y Deportivas 3 Cancha"
         },
         {
-          "periodo": "12:30-13:20",
-          "clase": "Literatura 206"
+          "periodo": "11:30-12:20",
+          "clase": "Derecho II 207"
         },
         {
-          "periodo": "13:20-14:10",
-          "clase": "Física 203"
+          "periodo": "12:20-13:10",
+          "clase": "Español y Literatura 207"
         },
         {
-          "periodo": "14:10-15:00",
-          "clase": "Salida"
+          "periodo": "13:10-14:00",
+          "clase": "Matemáticas 5 204"
         }
       ]
     }
