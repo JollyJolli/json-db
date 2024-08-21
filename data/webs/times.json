@@ -1,206 +1,90 @@
 {
-  "iconos": {
-    "Integrated Health for Adolescent 206": "fas fa-heartbeat",
-    "Economy 201": "fas fa-chart-line",
-    "Actividades Físicas y Deportivas 3 Cancha": "fas fa-basketball-ball",
-    "English 206 / 207 / 204": "fas fa-globe",
-    "Creativity 207": "fas fa-paint-brush",
-    "Temas Selectos de Biología 206 / 204": "fas fa-dna",
-    "Selected Topics in Physical Chemistry 208": "fas fa-flask",
-    "Informatica Aplicada 206 / Computación": "fas fa-laptop-code",
-    "Programming 207": "fas fa-code",
-    "Introducción a la Filosofía 207": "fas fa-book",
-    "Matemáticas 5 204": "fas fa-square-root-alt",
-    "Sistemas de la Información II 204 / Computación": "fas fa-database",
-    "Geografía 201": "fas fa-globe-americas",
-    "Derecho I 206": "fas fa-gavel",
-    "Derecho II 207": "fas fa-balance-scale",
-    "Español y Literatura 207": "fas fa-book-reader"
-  },
-  "horarios": [
+    "iconos": {
+        "Health 206": "fas fa-heartbeat",
+        "Economia 203": "fas fa-chart-line",
+        "Educación Fisica": "fas fa-basketball-ball",
+        "Ingles 206/203": "fas fa-globe",
+        "Geografía 207": "fas fa-globe-americas",
+        "Creativity CL": "fas fa-paint-brush",
+        "Matemáticas 202": "fas fa-square-root-alt",
+        "Computación": "fas fa-laptop-code",
+        "Frances 202": "fas fa-language",
+        "Programacion 201": "fas fa-code",
+        "Quimica 208": "fas fa-flask",
+        "Filosofía 204": "fas fa-book",
+        "Derecho 204": "fas fa-gavel",
+        "ESEM 207": "fas fa-dna",
+        "Psicologia 204": "fas fa-brain"
+    },
+     "horarios": [
     {
       "dia": "lunes",
       "horario": [
-        {
-          "periodo": "07:20-08:10",
-          "clase": "Integrated Health for Adolescent 206"
-        },
-        {
-          "periodo": "08:10-09:00",
-          "clase": "Economy 201"
-        },
-        {
-          "periodo": "09:00-09:50",
-          "clase": "Actividades Físicas y Deportivas 3 Cancha"
-        },
-        {
-          "periodo": "09:50-10:40",
-          "clase": "English 206"
-        },
-        {
-          "periodo": "10:40-11:30",
-          "clase": "Creativity 207"
-        },
-        {
-          "periodo": "11:30-12:20",
-          "clase": "Temas Selectos de Biología 206"
-        },
-        {
-          "periodo": "12:20-13:10",
-          "clase": "Selected Topics in Physical Chemistry 208"
-        },
-        {
-          "periodo": "13:10-14:00",
-          "clase": "Matemáticas 5 204"
-        }
+        {"periodo": "07:30-08:15", "clase": "Health 206"},
+        {"periodo": "08:15-09:00", "clase": "Economia 203"},
+        {"periodo": "09:00-09:45", "clase": "Educación Fisica"},
+        {"periodo": "10:20-11:05", "clase": "Ingles 206/203"},
+        {"periodo": "11:05-11:50", "clase": "Geografía 207"},
+        {"periodo": "11:50-12:35", "clase": "Creativity CL"},
+        {"periodo": "13:00-13:45", "clase": "Matemáticas 202"},
+        {"periodo": "13:45-14:30", "clase": "Computación"},
+        {"periodo": "14:30-15:15", "clase": "Salida"}
       ]
     },
     {
       "dia": "martes",
       "horario": [
-        {
-          "periodo": "07:20-08:10",
-          "clase": "Geografía 201"
-        },
-        {
-          "periodo": "08:10-09:00",
-          "clase": "Derecho I 206"
-        },
-        {
-          "periodo": "09:00-09:50",
-          "clase": "Economy 201"
-        },
-        {
-          "periodo": "09:50-10:40",
-          "clase": "English 206"
-        },
-        {
-          "periodo": "10:40-11:30",
-          "clase": "Actividades Físicas y Deportivas 3 Cancha"
-        },
-        {
-          "periodo": "11:30-12:20",
-          "clase": "Derecho II 207"
-        },
-        {
-          "periodo": "12:20-13:10",
-          "clase": "Informatica Aplicada 206"
-        },
-        {
-          "periodo": "13:10-14:00",
-          "clase": "Matemáticas 5 204"
-        }
+        {"periodo": "07:30-08:15", "clase": "Frances 202"},
+        {"periodo": "08:15-09:00", "clase": "Geografía 207"},
+        {"periodo": "09:00-09:45", "clase": "Economia 203"},
+        {"periodo": "10:20-11:05", "clase": "Programacion 201"},
+        {"periodo": "11:05-11:50", "clase": "Quimica 208"},
+        {"periodo": "11:50-12:35", "clase": "Filosofía 204"},
+        {"periodo": "13:00-13:45", "clase": "Matemáticas 204"},
+        {"periodo": "13:45-14:30", "clase": "Computación"},
+        {"periodo": "14:30-15:15", "clase": "Salida"}
       ]
     },
     {
       "dia": "miércoles",
       "horario": [
-        {
-          "periodo": "07:20-08:10",
-          "clase": "English 206"
-        },
-        {
-          "periodo": "08:10-09:00",
-          "clase": "Actividades Físicas y Deportivas 3 Cancha"
-        },
-        {
-          "periodo": "09:00-09:50",
-          "clase": "Informatica Aplicada 206"
-        },
-        {
-          "periodo": "09:50-10:40",
-          "clase": "Introducción a la Filosofía 207"
-        },
-        {
-          "periodo": "10:40-11:30",
-          "clase": "Creativity 207"
-        },
-        {
-          "periodo": "11:30-12:20",
-          "clase": "Temas Selectos de Biología 206"
-        },
-        {
-          "periodo": "12:20-13:10",
-          "clase": "Español y Literatura 207"
-        },
-        {
-          "periodo": "13:10-14:00",
-          "clase": "Matemáticas 5 204"
-        }
+        {"periodo": "07:30-08:15", "clase": "Geografía 207"},
+        {"periodo": "08:15-09:00", "clase": "Educación Fisica"},
+        {"periodo": "09:00-09:45", "clase": "Economia 203"},
+        {"periodo": "10:20-11:05", "clase": "Ingles 206/203"},
+        {"periodo": "11:05-11:50", "clase": "ESEM 207"},
+        {"periodo": "11:50-12:35", "clase": "Creativity CL"},
+        {"periodo": "13:00-13:45", "clase": "Derecho 204"},
+        {"periodo": "13:45-14:30", "clase": "Computación"},
+        {"periodo": "14:30-15:15", "clase": "Salida"}
       ]
     },
     {
       "dia": "jueves",
       "horario": [
-        {
-          "periodo": "07:20-08:10",
-          "clase": "Integrated Health for Adolescent 206"
-        },
-        {
-          "periodo": "08:10-09:00",
-          "clase": "Economy 201"
-        },
-        {
-          "periodo": "09:00-09:50",
-          "clase": "Actividades Físicas y Deportivas 3 Cancha"
-        },
-        {
-          "periodo": "09:50-10:40",
-          "clase": "English 206"
-        },
-        {
-          "periodo": "10:40-11:30",
-          "clase": "Sistemas de la Información II 204"
-        },
-        {
-          "periodo": "11:30-12:20",
-          "clase": "Programming 207"
-        },
-        {
-          "periodo": "12:20-13:10",
-          "clase": "Selected Topics in Physical Chemistry 208"
-        },
-        {
-          "periodo": "13:10-14:00",
-          "clase": "Matemáticas 5 204"
-        }
+        {"periodo": "07:30-08:15", "clase": "Psicologia 204"},
+        {"periodo": "08:15-09:00", "clase": "Economia 203"},
+        {"periodo": "09:00-09:45", "clase": "Educación Fisica"},
+        {"periodo": "10:20-11:05", "clase": "Ingles 206/203"},
+        {"periodo": "11:05-11:50", "clase": "Geografía 207"},
+        {"periodo": "11:50-12:35", "clase": "Creativity CL"},
+        {"periodo": "13:00-13:45", "clase": "Matemáticas 202"},
+        {"periodo": "13:45-14:30", "clase": "Computación"},
+        {"periodo": "14:30-15:15", "clase": "Salida"}
       ]
     },
     {
       "dia": "viernes",
       "horario": [
-        {
-          "periodo": "07:20-08:10",
-          "clase": "Geografía 201"
-        },
-        {
-          "periodo": "08:10-09:00",
-          "clase": "Derecho I 206"
-        },
-        {
-          "periodo": "09:00-09:50",
-          "clase": "Economy 201"
-        },
-        {
-          "periodo": "09:50-10:40",
-          "clase": "English 206"
-        },
-        {
-          "periodo": "10:40-11:30",
-          "clase": "Actividades Físicas y Deportivas 3 Cancha"
-        },
-        {
-          "periodo": "11:30-12:20",
-          "clase": "Derecho II 207"
-        },
-        {
-          "periodo": "12:20-13:10",
-          "clase": "Español y Literatura 207"
-        },
-        {
-          "periodo": "13:10-14:00",
-          "clase": "Matemáticas 5 204"
-        }
+        {"periodo": "07:30-08:15", "clase": "Health 206"},
+        {"periodo": "08:15-09:00", "clase": "Programacion 201"},
+        {"periodo": "09:00-09:45", "clase": "Quimica 208"},
+        {"periodo": "10:20-11:05", "clase": "Ingles 206/203"},
+        {"periodo": "11:05-11:50", "clase": "Creativity CL"},
+        {"periodo": "11:50-12:35", "clase": "Filosofía 204"},
+        {"periodo": "13:00-13:45", "clase": "Matemáticas 204"},
+        {"periodo": "13:45-14:30", "clase": "Computación"},
+        {"periodo": "14:30-15:15", "clase": "Salida"}
       ]
     }
   ]
