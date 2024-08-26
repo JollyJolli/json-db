@@ -20,16 +20,16 @@
         {
             "dia": "lunes",
             "horario": [
-                {"periodo": "07:30-08:15", "clase": "Health 206"},
-                {"periodo": "08:15-09:00", "clase": "Economia 203"},
-                {"periodo": "09:00-09:45", "clase": "Educación Fisica"},
+                {"periodo": "07:30-08:15", "clase": "English 206/203"},
+                {"periodo": "08:15-09:00", "clase": "ESEM 207"},
+                {"periodo": "09:00-09:45", "clase": "Quimica 208"},
                 {"periodo": "09:45-10:20", "clase": "Recreo"},
-                {"periodo": "10:20-11:05", "clase": "Ingles 206/203"},
-                {"periodo": "11:05-11:50", "clase": "Geografía 207"},
-                {"periodo": "11:50-12:35", "clase": "Creativity CL"},
+                {"periodo": "10:20-11:05", "clase": "Derecho 204"},
+                {"periodo": "11:05-11:50", "clase": "Filosofia 204"},
+                {"periodo": "11:50-12:35", "clase": "Geografia 207"},
                 {"periodo": "12:35-13:00", "clase": "Recreo"},
                 {"periodo": "13:00-13:45", "clase": "Matemáticas 202"},
-                {"periodo": "13:45-14:30", "clase": "Computación"},
+                {"periodo": "13:45-14:30", "clase": "Creativity"},
                 {"periodo": "14:30-15:15", "clase": "Salida"}
             ]
         },
