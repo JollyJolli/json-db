@@ -13,7 +13,6 @@
         "Economia 203": "fas fa-chart-line",
         "Psicologia 204": "fas fa-user-graduate",
         "Frances 202": "fas fa-flag",
-        "Programacion 291": "fas fa-code",
         "Programacion 201": "fas fa-code-branch",
         "Health 206": "fas fa-heartbeat",
         "Educación Fisica": "fas fa-running"
@@ -158,7 +157,7 @@
                 },
                 {
                     "periodo": "13:45-14:30",
-                    "clase": "Programacion 291"
+                    "clase": "Programacion 201"
                 },
                 {
                     "periodo": "14:30-15:15",
