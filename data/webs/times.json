@@ -1,100 +1,267 @@
 {
     "iconos": {
-        "Health 206": "fas fa-heartbeat",
-        "Economia 203": "fas fa-chart-line",
-        "Educación Fisica": "fas fa-basketball-ball",
-        "Ingles 206/203": "fas fa-globe",
-        "Geografía 207": "fas fa-globe-americas",
-        "Creativity CL": "fas fa-paint-brush",
-        "Matemáticas 202": "fas fa-square-root-alt",
-        "Computación": "fas fa-laptop-code",
-        "Frances 202": "fas fa-language",
-        "Programacion 201": "fas fa-code",
+        "Ingles 206/203": "fas fa-language",
+        "ESEM 207": "fas fa-atom",
         "Quimica 208": "fas fa-flask",
-        "Filosofía 204": "fas fa-book",
+        "Recreo": "fas fa-coffee",
         "Derecho 204": "fas fa-gavel",
-        "ESEM 207": "fas fa-dna",
-        "Psicologia 204": "fas fa-brain"
+        "Filosofia 204": "fas fa-brain",
+        "Geografia 207": "fas fa-globe",
+        "Matemáticas 202": "fas fa-square-root-alt",
+        "Creativity": "fas fa-palette",
+        "Computación": "fas fa-laptop-code",
+        "Economia 203": "fas fa-chart-line",
+        "Psicologia 204": "fas fa-user-graduate",
+        "Frances 202": "fas fa-flag",
+        "Programacion 291": "fas fa-code",
+        "Programacion 201": "fas fa-code-branch",
+        "Health 206": "fas fa-heartbeat",
+        "Educación Fisica": "fas fa-running"
     },
     "horarios": [
         {
             "dia": "lunes",
             "horario": [
-                {"periodo": "07:30-08:15", "clase": "Ingles 206/203"},
-                {"periodo": "08:15-09:00", "clase": "ESEM 207"},
-                {"periodo": "09:00-09:45", "clase": "Quimica 208"},
-                {"periodo": "09:45-10:20", "clase": "Recreo"},
-                {"periodo": "10:20-11:05", "clase": "Derecho 204"},
-                {"periodo": "11:05-11:50", "clase": "Filosofia 204"},
-                {"periodo": "11:50-12:35", "clase": "Geografia 207"},
-                {"periodo": "12:35-13:00", "clase": "Recreo"},
-                {"periodo": "13:00-13:45", "clase": "Matemáticas 202"},
-                {"periodo": "13:45-14:30", "clase": "Creativity"},
-                {"periodo": "14:30-15:15", "clase": "Salida"}
+                {
+                    "periodo": "07:30-08:15",
+                    "clase": "Ingles 206/203"
+                },
+                {
+                    "periodo": "08:15-09:00",
+                    "clase": "ESEM 207"
+                },
+                {
+                    "periodo": "09:00-09:45",
+                    "clase": "Quimica 208"
+                },
+                {
+                    "periodo": "09:45-10:20",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "10:20-11:05",
+                    "clase": "Derecho 204"
+                },
+                {
+                    "periodo": "11:05-11:50",
+                    "clase": "Filosofia 204"
+                },
+                {
+                    "periodo": "11:50-12:35",
+                    "clase": "Geografia 207"
+                },
+                {
+                    "periodo": "12:35-13:00",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "13:00-13:45",
+                    "clase": "Matemáticas 202"
+                },
+                {
+                    "periodo": "13:45-14:30",
+                    "clase": "Creativity"
+                },
+                {
+                    "periodo": "14:30-15:15",
+                    "clase": "Salida"
+                }
             ]
         },
         {
             "dia": "martes",
             "horario": [
-                {"periodo": "07:30-08:15", "clase": "Derecho 204"},
-                {"periodo": "08:15-09:00", "clase": "Computación"},
-                {"periodo": "09:00-09:45", "clase": "EESEM 207"},
-                {"periodo": "09:45-10:20", "clase": "Recreo"},
-                {"periodo": "10:20-11:05", "clase": "Economia 203"},
-                {"periodo": "11:05-11:50", "clase": "Psicologia 204"},
-                {"periodo": "11:50-12:35", "clase": "Frances 202"},
-                {"periodo": "12:35-13:00", "clase": "Recreo"},
-                {"periodo": "13:00-13:45", "clase": "Matemáticas 204"},
-                {"periodo": "13:45-14:30", "clase": "Matemáticas 202"},
-                {"periodo": "14:30-15:15", "clase": "Salida"}
+                {
+                    "periodo": "07:30-08:15",
+                    "clase": "Derecho 204"
+                },
+                {
+                    "periodo": "08:15-09:00",
+                    "clase": "Computación"
+                },
+                {
+                    "periodo": "09:00-09:45",
+                    "clase": "EESEM 207"
+                },
+                {
+                    "periodo": "09:45-10:20",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "10:20-11:05",
+                    "clase": "Economia 203"
+                },
+                {
+                    "periodo": "11:05-11:50",
+                    "clase": "Psicologia 204"
+                },
+                {
+                    "periodo": "11:50-12:35",
+                    "clase": "Frances 202"
+                },
+                {
+                    "periodo": "12:35-13:00",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "13:00-13:45",
+                    "clase": "Matemáticas 204"
+                },
+                {
+                    "periodo": "13:45-14:30",
+                    "clase": "Matemáticas 202"
+                },
+                {
+                    "periodo": "14:30-15:15",
+                    "clase": "Salida"
+                }
             ]
         },
         {
             "dia": "miércoles",
             "horario": [
-                {"periodo": "07:30-08:15", "clase": "Computación"},
-                {"periodo": "08:15-09:00", "clase": "Quimica 206"},
-                {"periodo": "09:00-09:45", "clase": "Economia 203"},
-                {"periodo": "09:45-10:20", "clase": "Recreo"},
-                {"periodo": "10:20-11:05", "clase": "ESEM 207"},
-                {"periodo": "11:05-11:50", "clase": "Computación"},
-                {"periodo": "11:50-12:35", "clase": "Filosofia 204"},
-                {"periodo": "12:35-13:00", "clase": "Recreo"},
-                {"periodo": "13:00-13:45", "clase": "Ingles 206/203"},
-                {"periodo": "13:45-14:30", "clase": "Programacion 291"},
-                {"periodo": "14:30-15:15", "clase": "Salida"}
+                {
+                    "periodo": "07:30-08:15",
+                    "clase": "Computación"
+                },
+                {
+                    "periodo": "08:15-09:00",
+                    "clase": "Quimica 206"
+                },
+                {
+                    "periodo": "09:00-09:45",
+                    "clase": "Economia 203"
+                },
+                {
+                    "periodo": "09:45-10:20",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "10:20-11:05",
+                    "clase": "ESEM 207"
+                },
+                {
+                    "periodo": "11:05-11:50",
+                    "clase": "Computación"
+                },
+                {
+                    "periodo": "11:50-12:35",
+                    "clase": "Filosofia 204"
+                },
+                {
+                    "periodo": "12:35-13:00",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "13:00-13:45",
+                    "clase": "Ingles 206/203"
+                },
+                {
+                    "periodo": "13:45-14:30",
+                    "clase": "Programacion 291"
+                },
+                {
+                    "periodo": "14:30-15:15",
+                    "clase": "Salida"
+                }
             ]
         },
         {
             "dia": "jueves",
             "horario": [
-                {"periodo": "07:30-08:15", "clase": "Geografia 207"},
-                {"periodo": "08:15-09:00", "clase": "Matematicas 204"},
-                {"periodo": "09:00-09:45", "clase": "Filosofia 204"},
-                {"periodo": "09:45-10:20", "clase": "Recreo"},
-                {"periodo": "10:20-11:05", "clase": "Programacion 201"},
-                {"periodo": "11:05-11:50", "clase": "Ingles 206/203"},
-                {"periodo": "11:50-12:35", "clase": "Health 206"},
-                {"periodo": "12:35-13:00", "clase": "Recreo"},
-                {"periodo": "13:00-13:45", "clase": "Psicologia 204"},
-                {"periodo": "13:45-14:30", "clase": "Educación Fisica"},
-                {"periodo": "14:30-15:15", "clase": "Salida"}
+                {
+                    "periodo": "07:30-08:15",
+                    "clase": "Geografia 207"
+                },
+                {
+                    "periodo": "08:15-09:00",
+                    "clase": "Matematicas 204"
+                },
+                {
+                    "periodo": "09:00-09:45",
+                    "clase": "Filosofia 204"
+                },
+                {
+                    "periodo": "09:45-10:20",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "10:20-11:05",
+                    "clase": "Programacion 201"
+                },
+                {
+                    "periodo": "11:05-11:50",
+                    "clase": "Ingles 206/203"
+                },
+                {
+                    "periodo": "11:50-12:35",
+                    "clase": "Health 206"
+                },
+                {
+                    "periodo": "12:35-13:00",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "13:00-13:45",
+                    "clase": "Psicologia 204"
+                },
+                {
+                    "periodo": "13:45-14:30",
+                    "clase": "Educación Fisica"
+                },
+                {
+                    "periodo": "14:30-15:15",
+                    "clase": "Salida"
+                }
             ]
         },
         {
             "dia": "viernes",
             "horario": [
-                {"periodo": "07:30-08:15", "clase": "Psicologia 204"},
-                {"periodo": "08:15-09:00", "clase": "Frances 202"},
-                {"periodo": "09:00-09:45", "clase": "Educación Fisica"},
-                {"periodo": "09:45-10:20", "clase": "Recreo"},
-                {"periodo": "10:20-11:05", "clase": "Derecho 204"},
-                {"periodo": "11:05-11:50", "clase": "Economia 203"},
-                {"periodo": "11:50-12:35", "clase": "Geografia 207"},
-                {"periodo": "12:35-13:00", "clase": "Recreo"},
-                {"periodo": "13:00-13:45", "clase": "Matematicas 202"},
-                {"periodo": "13:45-14:30", "clase": "Computación"},
-                {"periodo": "14:30-15:15", "clase": "Salida"}
+                {
+                    "periodo": "07:30-08:15",
+                    "clase": "Psicologia 204"
+                },
+                {
+                    "periodo": "08:15-09:00",
+                    "clase": "Frances 202"
+                },
+                {
+                    "periodo": "09:00-09:45",
+                    "clase": "Educación Fisica"
+                },
+                {
+                    "periodo": "09:45-10:20",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "10:20-11:05",
+                    "clase": "Derecho 204"
+                },
+                {
+                    "periodo": "11:05-11:50",
+                    "clase": "Economia 203"
+                },
+                {
+                    "periodo": "11:50-12:35",
+                    "clase": "Geografia 207"
+                },
+                {
+                    "periodo": "12:35-13:00",
+                    "clase": "Recreo"
+                },
+                {
+                    "periodo": "13:00-13:45",
+                    "clase": "Matematicas 202"
+                },
+                {
+                    "periodo": "13:45-14:30",
+                    "clase": "Computación"
+                },
+                {
+                    "periodo": "14:30-15:15",
+                    "clase": "Salida"
+                }
             ]
         }
     ]
