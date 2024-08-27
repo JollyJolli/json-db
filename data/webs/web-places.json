@@ -6,7 +6,8 @@
       "descripcion": "⚽ ¡Busca información sobre jugadores de varios deportes!",
       "nueva": false,
       "icon": "fa-solid fa-football-ball",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://cktls.formen.cc",
@@ -14,7 +15,8 @@
       "descripcion": "🍹 ¡Busca información sobre cocteles!",
       "nueva": false,
       "icon": "fa-solid fa-glass-martini",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://flag-game.formen.cc",
@@ -22,7 +24,8 @@
       "descripcion": "🌍 ¡Un juego sencillo de adivinar la bandera!",
       "nueva": false,
       "icon": "fa-solid fa-flag",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://rm.formen.cc",
@@ -30,7 +33,8 @@
       "descripcion": "🚀 ¡Busca personajes de Rick and Morty!",
       "nueva": false,
       "icon": "fa-solid fa-user-astronaut",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://food.formen.cc",
@@ -38,7 +42,8 @@
       "descripcion": "🍽️ ¡Busca información sobre comida!",
       "nueva": false,
       "icon": "fa-solid fa-utensils",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://disney.formen.cc",
@@ -46,7 +51,8 @@
       "descripcion": "✨ ¡Busca personajes de Disney!",
       "nueva": false,
       "icon": "fa-solid fa-magic",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://office.formen.cc",
@@ -54,7 +60,8 @@
       "descripcion": "📋 ¡Busca personajes de The Office!",
       "nueva": false,
       "icon": "fa-solid fa-briefcase",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://btc.formen.cc",
@@ -62,7 +69,8 @@
       "descripcion": "💰 ¡Obtén el valor de bitcoin en dólares!",
       "nueva": false,
       "icon": "fa-brands fa-bitcoin",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://paises.formen.cc",
@@ -70,7 +78,8 @@
       "descripcion": "🌎 ¡Busca información de distintos países!",
       "nueva": false,
       "icon": "fa-solid fa-globe",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://qr.formen.cc",
@@ -78,7 +87,8 @@
       "descripcion": "📱 ¡Crea tu propio QR!",
       "nueva": false,
       "icon": "fa-solid fa-qrcode",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://clima.formen.cc",
@@ -86,7 +96,8 @@
       "descripcion": "☀️ ¡Consulta el clima de tu ciudad de una forma interesante!",
       "nueva": false,
       "icon": "fa-solid fa-cloud-sun",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://tip.formen.cc",
@@ -94,7 +105,8 @@
       "descripcion": "💵 ¡Calcula fácilmente la propina que debes dejar en tus comidas y servicios!",
       "nueva": false,
       "icon": "fa-solid fa-calculator",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://spacex.formen.cc",
@@ -102,7 +114,8 @@
       "descripcion": "🚀 ¡Descubre el último lanzamiento de SpaceX y explora el historial de eventos!",
       "nueva": true,
       "icon": "fa-solid fa-rocket",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://usa.formen.cc",
@@ -110,7 +123,8 @@
       "descripcion": "🇺🇸 ¡Explora la lista completa de todos los presidentes que ha tenido Estados Unidos!",
       "nueva": false,
       "icon": "fa-solid fa-landmark",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://lastfm.formen.cc",
@@ -118,7 +132,8 @@
       "descripcion": "🎵 Busca la informacion de cualquier usuario de last.fm!",
       "nueva": true,
       "icon": "fa-solid fa-music",
-      "act": false
+      "act": false,
+      "contribuido": false
     },
     {
       "link": "https://taximetro.formen.cc",
@@ -126,7 +141,26 @@
       "descripcion": "🚖 ¡Calcula el valor que obtendrá el taxímetro al final del recorrido!",
       "nueva": true,
       "icon": "fa-solid fa-tachometer-alt",
-      "act": false
+      "act": false,
+      "contribuido": false
+    },
+    {
+      "link": "https://contribution-cards.netlify.app/",
+      "titulo": "Cartas de Contribución",
+      "descripcion": "🃏 ¡Explora y crea cartas de contribución!",
+      "nueva": true,
+      "icon": "fa-solid fa-cards",
+      "act": false,
+      "contribuido": true
+    },
+    {
+      "link": "https://nmoji.netlify.app/",
+      "titulo": "Buscador de Emojis",
+      "descripcion": "😊 ¡Busca y explora información sobre emojis!",
+      "nueva": true,
+      "icon": "fa-solid fa-smile",
+      "act": false,
+      "contribuido": true
     }
   ]
 }
