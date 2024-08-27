@@ -7,7 +7,8 @@
         "Derecho 204": "fas fa-gavel",
         "Filosofia 204": "fas fa-brain",
         "Geografia 207": "fas fa-globe",
-        "Matemáticas 202": "fas fa-square-root-alt",
+        "Cálculo 202": "fas fa-square-root-alt",
+        "Matemáticas 304": "fas fa-square-root-alt",
         "Creativity": "fas fa-palette",
         "Computación": "fas fa-laptop-code",
         "Economia 203": "fas fa-chart-line",
@@ -108,7 +109,7 @@
                 },
                 {
                     "periodo": "13:45-14:30",
-                    "clase": "Matemáticas 202"
+                    "clase": "Cálculo 202"
                 },
                 {
                     "periodo": "14:30-15:15",
@@ -251,7 +252,7 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Matematicas 202"
+                    "clase": "Cálculo 202"
                 },
                 {
                     "periodo": "13:45-14:30",
