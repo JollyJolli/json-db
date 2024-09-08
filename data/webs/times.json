@@ -264,6 +264,14 @@
                     "clase": "Salida"
                 }
             ]
+        },
+        {
+            "dia": "sabado",
+            "horario": []
+        },
+        {
+            "dia": "domingo",
+            "horario": []
         }
     ]
 }
