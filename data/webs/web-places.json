@@ -112,7 +112,7 @@
       "link": "https://spacex.formen.cc",
       "titulo": "SpaceX",
       "descripcion": "🚀 ¡Descubre el último lanzamiento de SpaceX y explora el historial de eventos!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-rocket",
       "act": false,
       "contribuido": false
@@ -130,7 +130,7 @@
       "link": "https://lastfm.formen.cc",
       "titulo": "Last.fm",
       "descripcion": "🎵 Busca la informacion de cualquier usuario de last.fm!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-music",
       "act": false,
       "contribuido": false
@@ -139,7 +139,7 @@
       "link": "https://taximetro.formen.cc",
       "titulo": "Taxímetro",
       "descripcion": "🚖 ¡Calcula el valor que obtendrá el taxímetro al final del recorrido!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-tachometer-alt",
       "act": false,
       "contribuido": false
@@ -148,7 +148,7 @@
       "link": "https://contribution-cards.netlify.app/",
       "titulo": "Cartas de Contribución",
       "descripcion": "🃏 ¡Explora y crea cartas de contribución!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-cards",
       "act": false,
       "contribuido": true
@@ -157,7 +157,7 @@
       "link": "https://nmoji.netlify.app/",
       "titulo": "Buscador de Emojis",
       "descripcion": "😊 ¡Busca y explora información sobre emojis!",
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-smile",
       "act": false,
       "contribuido": true
