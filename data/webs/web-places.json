@@ -161,6 +161,15 @@
       "icon": "fa-solid fa-smile",
       "act": false,
       "contribuido": true
-    }
+    },
+    {
+    "link": "https://jackpurrin.me/",
+    "titulo": "Información y Juegos",
+    "descripcion": "📚 Pagina con mucha información y juegos",
+    "nueva": true,
+    "icon": "fa-solid fa-gamepad",
+    "act": false,
+    "contribuido": true
+  }
   ]
 }
