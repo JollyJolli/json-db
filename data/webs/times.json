@@ -29,7 +29,7 @@
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "ESEM 207"
+                    "clase": "EXAMEN(Derecho) - ESEM 207"
                 },
                 {
                     "periodo": "09:00-09:45",
@@ -41,7 +41,7 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "Derecho 204"
+                    "clase": "EXAMEN(ESEM) - Derecho 204"
                 },
                 {
                     "periodo": "11:05-11:50",
@@ -57,7 +57,7 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Matemáticas 204"
+                    "clase": "EXAMEN(Creativity) - Matemáticas 204"
                 },
                 {
                     "periodo": "13:45-14:30",
@@ -78,7 +78,7 @@
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "Informatica Aplicada"
+                    "clase": "EXAMEN(Psicologia) - Informatica Aplicada"
                 },
                 {
                     "periodo": "09:00-09:45",
@@ -90,7 +90,7 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "Economia 203"
+                    "clase": "EXAMEN(English) - Economia 203"
                 },
                 {
                     "periodo": "11:05-11:50",
@@ -106,7 +106,7 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Matemáticas 204"
+                    "clase": "EXAMEN(Health) - Matemáticas 204"
                 },
                 {
                     "periodo": "13:45-14:30",
@@ -127,7 +127,7 @@
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "Quimica 208"
+                    "clase": "EXAMEN(Mate) - Quimica 208"
                 },
                 {
                     "periodo": "09:00-09:45",
@@ -139,7 +139,7 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "ESEM 207"
+                    "clase": "EXAMEN(Frances) - ESEM 207"
                 },
                 {
                     "periodo": "11:05-11:50",
@@ -155,7 +155,7 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Ingles 206/203"
+                    "clase": "EXAMEN(Filosofia) - Ingles 206/203"
                 },
                 {
                     "periodo": "13:45-14:30",
@@ -176,7 +176,7 @@
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "Matematicas 204"
+                    "clase": "EXAMEN(Economia) - Matematicas 204"
                 },
                 {
                     "periodo": "09:00-09:45",
@@ -188,7 +188,7 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "Programacion 201"
+                    "clase": "EXAMEN(Geografia) - Programacion 201"
                 },
                 {
                     "periodo": "11:05-11:50",
@@ -204,7 +204,7 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Psicologia 204"
+                    "clase": "EXAMEN(Informatica Aplicada) - Psicologia 204"
                 },
                 {
                     "periodo": "13:45-14:30",
