@@ -127,7 +127,7 @@
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "Quimica 208"
+                    "clase": "EXAMEN(Fisicoquimica) - Quimica 208"
                 },
                 {
                     "periodo": "09:00-09:45",
@@ -139,7 +139,7 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "ESEM 207"
+                    "clase": "EXAMEN(Informatica Aplicada) - ESEM 207"
                 },
                 {
                     "periodo": "11:05-11:50",
@@ -155,7 +155,7 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Ingles 206/203"
+                    "clase": "EXAMEN(Programming) - Ingles 206/203"
                 },
                 {
                     "periodo": "13:45-14:30",
@@ -204,7 +204,7 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "EXAMEN(Informatica Aplicada) - Psicologia 204"
+                    "clase": "EXAMEN(Calculo) - Psicologia 204"
                 },
                 {
                     "periodo": "13:45-14:30",
