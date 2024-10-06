@@ -42,7 +42,7 @@
       "descripcion": "🍽️ ¡Busca información sobre comida!",
       "nueva": false,
       "icon": "fa-solid fa-utensils",
-      "act": false,
+      "act": true,
       "contribuido": false
     },
     {
