@@ -15,7 +15,7 @@
       "descripcion": "🍹 ¡Busca información sobre cocteles!",
       "nueva": false,
       "icon": "fa-solid fa-glass-martini",
-      "act": false,
+      "act": true,
       "contribuido": false
     },
     {
