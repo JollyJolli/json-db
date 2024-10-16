@@ -2,8 +2,14 @@
   "Webs": [
     {
       "link": "https://sports.formen.cc",
-      "titulo": "Deportes",
-      "descripcion": "⚽ ¡Busca información sobre jugadores de varios deportes!",
+      "titulo": {
+        "es": "Deportes",
+        "en": "Sports"
+      },
+      "descripcion": {
+        "es": "⚽ ¡Busca información sobre jugadores de varios deportes!",
+        "en": "⚽ Find information about players from various sports!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-football-ball",
       "act": false,
@@ -11,8 +17,14 @@
     },
     {
       "link": "https://cktls.formen.cc",
-      "titulo": "Cocteles",
-      "descripcion": "🍹 ¡Busca información sobre cocteles!",
+      "titulo": {
+        "es": "Cocteles",
+        "en": "Cocktails"
+      },
+      "descripcion": {
+        "es": "🍹 ¡Busca información sobre cocteles!",
+        "en": "🍹 Find information about cocktails!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-glass-martini",
       "act": true,
@@ -20,8 +32,14 @@
     },
     {
       "link": "https://flag-game.formen.cc",
-      "titulo": "¡Adivina la Bandera!",
-      "descripcion": "🌍 ¡Un juego sencillo de adivinar la bandera!",
+      "titulo": {
+        "es": "¡Adivina la Bandera!",
+        "en": "Guess the Flag!"
+      },
+      "descripcion": {
+        "es": "🌍 ¡Un juego sencillo de adivinar la bandera!",
+        "en": "🌍 A simple flag guessing game!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-flag",
       "act": false,
@@ -29,8 +47,14 @@
     },
     {
       "link": "https://rm.formen.cc",
-      "titulo": "Rick and Morty Characters",
-      "descripcion": "🚀 ¡Busca personajes de Rick and Morty!",
+      "titulo": {
+        "es": "Rick and Morty Characters",
+        "en": "Rick and Morty Characters"
+      },
+      "descripcion": {
+        "es": "🚀 ¡Busca personajes de Rick and Morty!",
+        "en": "🚀 Find Rick and Morty characters!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-user-astronaut",
       "act": false,
@@ -38,8 +62,14 @@
     },
     {
       "link": "https://food.formen.cc",
-      "titulo": "Comida",
-      "descripcion": "🍽️ ¡Busca información sobre comida!",
+      "titulo": {
+        "es": "Comida",
+        "en": "Food"
+      },
+      "descripcion": {
+        "es": "🍽️ ¡Busca información sobre comida!",
+        "en": "🍽️ Find information about food!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-utensils",
       "act": true,
@@ -47,8 +77,14 @@
     },
     {
       "link": "https://disney.formen.cc",
-      "titulo": "Disney",
-      "descripcion": "✨ ¡Busca personajes de Disney!",
+      "titulo": {
+        "es": "Disney",
+        "en": "Disney"
+      },
+      "descripcion": {
+        "es": "✨ ¡Busca personajes de Disney!",
+        "en": "✨ Find Disney characters!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-magic",
       "act": false,
@@ -56,8 +92,14 @@
     },
     {
       "link": "https://office.formen.cc",
-      "titulo": "The Office",
-      "descripcion": "📋 ¡Busca personajes de The Office!",
+      "titulo": {
+        "es": "The Office",
+        "en": "The Office"
+      },
+      "descripcion": {
+        "es": "📋 ¡Busca personajes de The Office!",
+        "en": "📋 Find The Office characters!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-briefcase",
       "act": false,
@@ -65,8 +107,14 @@
     },
     {
       "link": "https://btc.formen.cc",
-      "titulo": "Bitcoin",
-      "descripcion": "💰 ¡Obtén el valor de bitcoin en dólares!",
+      "titulo": {
+        "es": "Bitcoin",
+        "en": "Bitcoin"
+      },
+      "descripcion": {
+        "es": "💰 ¡Obtén el valor de bitcoin en dólares!",
+        "en": "💰 Get the value of bitcoin in dollars!"
+      },
       "nueva": false,
       "icon": "fa-brands fa-bitcoin",
       "act": false,
@@ -74,8 +122,14 @@
     },
     {
       "link": "https://paises.formen.cc",
-      "titulo": "Buscar Paises",
-      "descripcion": "🌎 ¡Busca información de distintos países!",
+      "titulo": {
+        "es": "Buscar Paises",
+        "en": "Search Countries"
+      },
+      "descripcion": {
+        "es": "🌎 ¡Busca información de distintos países!",
+        "en": "🌎 Find information about different countries!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-globe",
       "act": false,
@@ -83,8 +137,14 @@
     },
     {
       "link": "https://qr.formen.cc",
-      "titulo": "Generador de QRs",
-      "descripcion": "📱 ¡Crea tu propio QR!",
+      "titulo": {
+        "es": "Generador de QRs",
+        "en": "QR Generator"
+      },
+      "descripcion": {
+        "es": "📱 ¡Crea tu propio QR!",
+        "en": "📱 Create your own QR!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-qrcode",
       "act": false,
@@ -92,8 +152,14 @@
     },
     {
       "link": "https://clima.formen.cc",
-      "titulo": "Clima",
-      "descripcion": "☀️ ¡Consulta el clima de tu ciudad de una forma interesante!",
+      "titulo": {
+        "es": "Clima",
+        "en": "Weather"
+      },
+      "descripcion": {
+        "es": "☀️ ¡Consulta el clima de tu ciudad de una forma interesante!",
+        "en": "☀️ Check the weather of your city in an interesting way!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-cloud-sun",
       "act": false,
@@ -101,8 +167,14 @@
     },
     {
       "link": "https://tip.formen.cc",
-      "titulo": "Calculador de Propinas",
-      "descripcion": "💵 ¡Calcula fácilmente la propina que debes dejar en tus comidas y servicios!",
+      "titulo": {
+        "es": "Calculador de Propinas",
+        "en": "Tip Calculator"
+      },
+      "descripcion": {
+        "es": "💵 ¡Calcula fácilmente la propina que debes dejar en tus comidas y servicios!",
+        "en": "💵 Easily calculate the tip you should leave for your meals and services!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-calculator",
       "act": false,
@@ -110,8 +182,14 @@
     },
     {
       "link": "https://spacex.formen.cc",
-      "titulo": "SpaceX",
-      "descripcion": "🚀 ¡Descubre el último lanzamiento de SpaceX y explora el historial de eventos!",
+      "titulo": {
+        "es": "SpaceX",
+        "en": "SpaceX"
+      },
+      "descripcion": {
+        "es": "🚀 ¡Descubre el último lanzamiento de SpaceX y explora el historial de eventos!",
+        "en": "🚀 Discover the latest SpaceX launch and explore the event history!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-rocket",
       "act": false,
@@ -119,8 +197,14 @@
     },
     {
       "link": "https://usa.formen.cc",
-      "titulo": "Presidentes de EE.UU.",
-      "descripcion": "🇺🇸 ¡Explora la lista completa de todos los presidentes que ha tenido Estados Unidos!",
+      "titulo": {
+        "es": "Presidentes de EE.UU.",
+        "en": "US Presidents"
+      },
+      "descripcion": {
+        "es": "🇺🇸 ¡Explora la lista completa de todos los presidentes que ha tenido Estados Unidos!",
+        "en": "🇺🇸 Explore the complete list of all the U.S. presidents!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-landmark",
       "act": false,
@@ -128,8 +212,14 @@
     },
     {
       "link": "https://lastfm.formen.cc",
-      "titulo": "Last.fm",
-      "descripcion": "🎵 Busca la informacion de cualquier usuario de last.fm!",
+      "titulo": {
+        "es": "Last.fm",
+        "en": "Last.fm"
+      },
+      "descripcion": {
+        "es": "🎵 Busca la informacion de cualquier usuario de last.fm!",
+        "en": "🎵 Find the information of any Last.fm user!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-music",
       "act": false,
@@ -137,8 +227,14 @@
     },
     {
       "link": "https://taximetro.formen.cc",
-      "titulo": "Taxímetro",
-      "descripcion": "🚖 ¡Calcula el valor que obtendrá el taxímetro al final del recorrido!",
+      "titulo": {
+        "es": "Taxímetro",
+        "en": "Taximeter"
+      },
+      "descripcion": {
+        "es": "🚖 ¡Calcula el valor que obtendrá el taxímetro al final del recorrido!",
+        "en": "🚖 Calculate the value the taximeter will display at the end of the ride!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-tachometer-alt",
       "act": false,
@@ -146,8 +242,14 @@
     },
     {
       "link": "https://contribution-cards.netlify.app/",
-      "titulo": "Cartas de Contribución",
-      "descripcion": "🃏 ¡Explora y crea cartas de contribución!",
+      "titulo": {
+        "es": "Cartas de Contribución",
+        "en": "Contribution Cards"
+      },
+      "descripcion": {
+        "es": "🃏 ¡Explora y crea cartas de contribución!",
+        "en": "🃏 Explore and create contribution cards!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-cards",
       "act": false,
@@ -155,21 +257,33 @@
     },
     {
       "link": "https://nmoji.netlify.app/",
-      "titulo": "Buscador de Emojis",
-      "descripcion": "😊 ¡Busca y explora información sobre emojis!",
+      "titulo": {
+        "es": "Buscador de Emojis",
+        "en": "Emoji Finder"
+      },
+      "descripcion": {
+        "es": "😊 ¡Busca y explora información sobre emojis!",
+        "en": "😊 Search and explore information about emojis!"
+      },
       "nueva": false,
       "icon": "fa-solid fa-smile",
       "act": false,
       "contribuido": true
     },
     {
-    "link": "https://jackpurrin.me/",
-    "titulo": "Información y Juegos",
-    "descripcion": "📚 Pagina con mucha información y juegos",
-    "nueva": true,
-    "icon": "fa-solid fa-gamepad",
-    "act": false,
-    "contribuido": true
-  }
+      "link": "https://jackpurrin.me/",
+      "titulo": {
+        "es": "Información y Juegos",
+        "en": "Information and Games"
+      },
+      "descripcion": {
+        "es": "📚 Pagina con mucha información y juegos",
+        "en": "📚 A page with lots of information and games"
+      },
+      "nueva": true,
+      "icon": "fa-solid fa-gamepad",
+      "act": false,
+      "contribuido": true
+    }
   ]
 }
