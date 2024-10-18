@@ -1,39 +1,42 @@
 {
     "iconos": {
-    "Ingles 206/203": "fas fa-language",
-    "ESEM 207": "fas fa-atom",
-    "Quimica 208": "fas fa-vial",
-    "Recreo": "fas fa-coffee",
-    "Derecho 204": "fas fa-balance-scale",
-    "Filosofia 204": "fas fa-lightbulb",
-    "Geografia 207": "fas fa-globe-americas",
-    "Cálculo 202": "fas fa-calculator",
-    "Matemáticas 304": "fas fa-square-root-alt",
-    "Creativity": "fas fa-paint-brush",
-    "Computación": "fas fa-desktop",
-    "Informatica Aplicada": "fas fa-keyboard",
-    "Economia 203": "fas fa-coins",
-    "Psicologia 204": "fas fa-brain",
-    "Frances 202": "fas fa-flag",
-    "Programacion 201": "fas fa-code",
-    "Health 206": "fas fa-heartbeat",
-    "Educación Fisica": "fas fa-basketball-ball"
-},
+        "Ingles": "fas fa-language",
+        "ESEM": "fas fa-atom",
+        "Quimica": "fas fa-vial",
+        "Recreo": "fas fa-coffee",
+        "Derecho": "fas fa-balance-scale",
+        "Filosofia": "fas fa-lightbulb",
+        "Geografia": "fas fa-globe-americas",
+        "Cálculo": "fas fa-calculator",
+        "Matemáticas": "fas fa-square-root-alt",
+        "Creativity": "fas fa-paint-brush",
+        "Computación": "fas fa-desktop",
+        "Informatica Aplicada": "fas fa-keyboard",
+        "Economia": "fas fa-coins",
+        "Psicologia": "fas fa-brain",
+        "Frances": "fas fa-flag",
+        "Programacion": "fas fa-code",
+        "Health": "fas fa-heartbeat",
+        "Educación Fisica": "fas fa-basketball-ball"
+    },
     "horarios": [
         {
             "dia": "lunes",
             "horario": [
                 {
                     "periodo": "07:30-08:15",
-                    "clase": "Ingles 206/203"
+                    "clase": "Ingles",
+                    "salon": "206/203"
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "ESEM 207"
+                    "clase": "ESEM",
+                    "salon": "207"
                 },
                 {
                     "periodo": "09:00-09:45",
-                    "clase": "Quimica 208"
+                    "clase": "Quimica",
+                    "salon": "208"
                 },
                 {
                     "periodo": "09:45-10:20",
@@ -41,15 +44,18 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "Derecho 204"
+                    "clase": "Derecho",
+                    "salon": "204"
                 },
                 {
                     "periodo": "11:05-11:50",
-                    "clase": "Filosofia 204"
+                    "clase": "Filosofia",
+                    "salon": "204"
                 },
                 {
                     "periodo": "11:50-12:35",
-                    "clase": "Geografia 207"
+                    "clase": "Geografia",
+                    "salon": "207"
                 },
                 {
                     "periodo": "12:35-13:00",
@@ -57,7 +63,8 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Matemáticas 204"
+                    "clase": "Matemáticas",
+                    "salon": "204"
                 },
                 {
                     "periodo": "13:45-14:30",
@@ -74,7 +81,8 @@
             "horario": [
                 {
                     "periodo": "07:30-08:15",
-                    "clase": "Derecho 204"
+                    "clase": "Derecho",
+                    "salon": "204"
                 },
                 {
                     "periodo": "08:15-09:00",
@@ -82,7 +90,8 @@
                 },
                 {
                     "periodo": "09:00-09:45",
-                    "clase": "ESEM 207"
+                    "clase": "ESEM",
+                    "salon": "207"
                 },
                 {
                     "periodo": "09:45-10:20",
@@ -90,15 +99,18 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "Economia 203"
+                    "clase": "Economia",
+                    "salon": "203"
                 },
                 {
                     "periodo": "11:05-11:50",
-                    "clase": "Psicologia 204"
+                    "clase": "Psicologia",
+                    "salon": "204"
                 },
                 {
                     "periodo": "11:50-12:35",
-                    "clase": "Frances 202"
+                    "clase": "Frances",
+                    "salon": "202"
                 },
                 {
                     "periodo": "12:35-13:00",
@@ -106,11 +118,13 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Matemáticas 204"
+                    "clase": "Matemáticas",
+                    "salon": "204"
                 },
                 {
                     "periodo": "13:45-14:30",
-                    "clase": "Cálculo 202"
+                    "clase": "Cálculo",
+                    "salon": "202"
                 },
                 {
                     "periodo": "14:30-15:15",
@@ -127,11 +141,13 @@
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "Quimica 208"
+                    "clase": "Quimica",
+                    "salon": "208"
                 },
                 {
                     "periodo": "09:00-09:45",
-                    "clase": "Economia 203"
+                    "clase": "Economia",
+                    "salon": "203"
                 },
                 {
                     "periodo": "09:45-10:20",
@@ -139,7 +155,8 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "ESEM 207"
+                    "clase": "ESEM",
+                    "salon": "207"
                 },
                 {
                     "periodo": "11:05-11:50",
@@ -147,7 +164,8 @@
                 },
                 {
                     "periodo": "11:50-12:35",
-                    "clase": "Filosofia 204"
+                    "clase": "Filosofia",
+                    "salon": "204"
                 },
                 {
                     "periodo": "12:35-13:00",
@@ -155,11 +173,13 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Ingles 206/203"
+                    "clase": "Ingles",
+                    "salon": "206/203"
                 },
                 {
                     "periodo": "13:45-14:30",
-                    "clase": "Programacion 201"
+                    "clase": "Programacion",
+                    "salon": "201"
                 },
                 {
                     "periodo": "14:30-15:15",
@@ -172,15 +192,18 @@
             "horario": [
                 {
                     "periodo": "07:30-08:15",
-                    "clase": "Geografia 207"
+                    "clase": "Geografia",
+                    "salon": "207"
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "Matematicas 204"
+                    "clase": "Matematicas",
+                    "salon": "204"
                 },
                 {
                     "periodo": "09:00-09:45",
-                    "clase": "Filosofia 204"
+                    "clase": "Filosofia",
+                    "salon": "204"
                 },
                 {
                     "periodo": "09:45-10:20",
@@ -188,15 +211,18 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "Programacion 201"
+                    "clase": "Programacion",
+                    "salon": "201"
                 },
                 {
                     "periodo": "11:05-11:50",
-                    "clase": "Ingles 206/203"
+                    "clase": "Ingles",
+                    "salon": "206/203"
                 },
                 {
                     "periodo": "11:50-12:35",
-                    "clase": "Health 206"
+                    "clase": "Health",
+                    "salon": "206"
                 },
                 {
                     "periodo": "12:35-13:00",
@@ -204,7 +230,8 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Psicologia 204"
+                    "clase": "Psicologia",
+                    "salon": "204"
                 },
                 {
                     "periodo": "13:45-14:30",
@@ -221,11 +248,13 @@
             "horario": [
                 {
                     "periodo": "07:30-08:15",
-                    "clase": "Psicologia 204"
+                    "clase": "Psicologia",
+                    "salon": "204"
                 },
                 {
                     "periodo": "08:15-09:00",
-                    "clase": "Frances 202"
+                    "clase": "Frances",
+                    "salon": "202"
                 },
                 {
                     "periodo": "09:00-09:45",
@@ -237,15 +266,18 @@
                 },
                 {
                     "periodo": "10:20-11:05",
-                    "clase": "Derecho 204"
+                    "clase": "Derecho",
+                    "salon": "204"
                 },
                 {
                     "periodo": "11:05-11:50",
-                    "clase": "Economia 203"
+                    "clase": "Economia",
+                    "salon": "203"
                 },
                 {
                     "periodo": "11:50-12:35",
-                    "clase": "Geografia 207"
+                    "clase": "Geografia",
+                    "salon": "207"
                 },
                 {
                     "periodo": "12:35-13:00",
@@ -253,7 +285,8 @@
                 },
                 {
                     "periodo": "13:00-13:45",
-                    "clase": "Cálculo 202"
+                    "clase": "Cálculo",
+                    "salon": "202"
                 },
                 {
                     "periodo": "13:45-14:30",
