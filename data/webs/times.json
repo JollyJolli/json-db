@@ -1,23 +1,23 @@
 {
     "iconos": {
-        "Ingles": "fas fa-language",
-        "ESEM": "fas fa-atom",
-        "Quimica": "fas fa-vial",
-        "Recreo": "fas fa-coffee",
-        "Derecho": "fas fa-balance-scale",
-        "Filosofia": "fas fa-lightbulb",
-        "Geografia": "fas fa-globe-americas",
-        "Cálculo": "fas fa-calculator",
-        "Matemáticas": "fas fa-square-root-alt",
-        "Creativity": "fas fa-paint-brush",
-        "Computación": "fas fa-desktop",
-        "Informatica Aplicada": "fas fa-keyboard",
-        "Economia": "fas fa-coins",
-        "Psicologia": "fas fa-brain",
-        "Frances": "fas fa-flag",
-        "Programacion": "fas fa-code",
-        "Health": "fas fa-heartbeat",
-        "Educación Fisica": "fas fa-basketball-ball"
+        "Ingles": "fas fa-globe-americas",        // Más internacional que solo language
+        "ESEM": "fas fa-flask",                   // Más visual para ciencias
+        "Quimica": "fas fa-flask-vial",          // Más específico para química
+        "Recreo": "fas fa-umbrella-beach",        // Más recreativo que solo café
+        "Derecho": "fas fa-gavel",                // Mazo de juez, más representativo
+        "Filosofia": "fas fa-brain",              // Más relacionado al pensamiento
+        "Geografia": "fas fa-earth-americas",      // Versión actualizada del globo
+        "Cálculo": "fas fa-square-root-alt",      // Mejor para cálculo que calculadora
+        "Matemáticas": "fas fa-infinity",         // Símbolo matemático universal
+        "Creativity": "fas fa-palette",           // Más artístico que brocha
+        "Computación": "fas fa-microchip",        // Más técnico que desktop
+        "Informatica Aplicada": "fas fa-laptop-code", // Más específico que teclado
+        "Economia": "fas fa-chart-line",          // Gráfico de crecimiento, más económico
+        "Psicologia": "fas fa-head-side-brain",   // Más específico para psicología
+        "Frances": "fas fa-wine-glass",           // Más cultural que bandera
+        "Programacion": "fas fa-code",            // Este está bien
+        "Health": "fas fa-heart-pulse",           // Versión actualizada de heartbeat
+        "Educación Fisica": "fas fa-dumbbell"     // Más general que balón de básquet
     },
     "horarios": [
         {
