@@ -1,23 +1,23 @@
 {
     "iconos": {
-        "Ingles": "fas fa-globe-americas",        // Más internacional que solo language
-        "ESEM": "fas fa-flask",                   // Más visual para ciencias
-        "Quimica": "fas fa-flask-vial",          // Más específico para química
-        "Recreo": "fas fa-umbrella-beach",        // Más recreativo que solo café
-        "Derecho": "fas fa-gavel",                // Mazo de juez, más representativo
-        "Filosofia": "fas fa-brain",              // Más relacionado al pensamiento
-        "Geografia": "fas fa-earth-americas",      // Versión actualizada del globo
-        "Cálculo": "fas fa-square-root-alt",      // Mejor para cálculo que calculadora
-        "Matemáticas": "fas fa-infinity",         // Símbolo matemático universal
-        "Creativity": "fas fa-palette",           // Más artístico que brocha
-        "Computación": "fas fa-microchip",        // Más técnico que desktop
-        "Informatica Aplicada": "fas fa-laptop-code", // Más específico que teclado
-        "Economia": "fas fa-chart-line",          // Gráfico de crecimiento, más económico
-        "Psicologia": "fas fa-head-side-brain",   // Más específico para psicología
-        "Frances": "fas fa-wine-glass",           // Más cultural que bandera
-        "Programacion": "fas fa-code",            // Este está bien
-        "Health": "fas fa-heart-pulse",           // Versión actualizada de heartbeat
-        "Educación Fisica": "fas fa-dumbbell"     // Más general que balón de básquet
+        "Ingles": "fas fa-globe-americas",
+        "ESEM": "fas fa-flask",
+        "Quimica": "fas fa-flask-vial",
+        "Recreo": "fas fa-umbrella-beach",
+        "Derecho": "fas fa-gavel",
+        "Filosofia": "fas fa-brain",
+        "Geografia": "fas fa-earth-americas",
+        "Cálculo": "fas fa-square-root-alt",
+        "Matemáticas": "fas fa-infinity",
+        "Creativity": "fas fa-palette",
+        "Computación": "fas fa-microchip",
+        "Informatica Aplicada": "fas fa-laptop-code",
+        "Economia": "fas fa-chart-line",
+        "Psicologia": "fas fa-head-side-brain",
+        "Frances": "fas fa-wine-glass",
+        "Programacion": "fas fa-code",
+        "Health": "fas fa-heart-pulse",
+        "Educación Fisica": "fas fa-dumbbell"
     },
     "horarios": [
         {
