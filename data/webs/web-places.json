@@ -4,11 +4,17 @@
       "link": "https://sports.formen.cc",
       "titulo": {
         "es": "Deportes",
-        "en": "Sports"
+        "en": "Sports",
+        "fr": "Sports",
+        "pt": "Esportes",
+        "it": "Sport"
       },
       "descripcion": {
         "es": "⚽ ¡Busca información sobre jugadores de varios deportes!",
-        "en": "⚽ Find information about players from various sports!"
+        "en": "⚽ Find information about players from various sports!",
+        "fr": "⚽ Trouvez des informations sur les joueurs de divers sports !",
+        "pt": "⚽ Encontre informações sobre jogadores de vários esportes!",
+        "it": "⚽ Trova informazioni sui giocatori di vari sport!"
       },
       "nueva": false,
       "icon": "fa-solid fa-football-ball",
@@ -19,11 +25,17 @@
       "link": "https://cktls.formen.cc",
       "titulo": {
         "es": "Cocteles",
-        "en": "Cocktails"
+        "en": "Cocktails",
+        "fr": "Cocktails",
+        "pt": "Coquetéis",
+        "it": "Cocktail"
       },
       "descripcion": {
         "es": "🍹 ¡Busca información sobre cocteles!",
-        "en": "🍹 Find information about cocktails!"
+        "en": "🍹 Find information about cocktails!",
+        "fr": "🍹 Trouvez des informations sur les cocktails !",
+        "pt": "🍹 Encontre informações sobre coquetéis!",
+        "it": "🍹 Trova informazioni sui cocktail!"
       },
       "nueva": false,
       "icon": "fa-solid fa-glass-martini",
@@ -34,11 +46,17 @@
       "link": "https://flag-game.formen.cc",
       "titulo": {
         "es": "¡Adivina la Bandera!",
-        "en": "Guess the Flag!"
+        "en": "Guess the Flag!",
+        "fr": "Devinez le Drapeau!",
+        "pt": "Adivinhe a Bandeira!",
+        "it": "Indovina la Bandiera!"
       },
       "descripcion": {
         "es": "🌍 ¡Un juego sencillo de adivinar la bandera!",
-        "en": "🌍 A simple flag guessing game!"
+        "en": "🌍 A simple flag guessing game!",
+        "fr": "🌍 Un jeu simple pour deviner les drapeaux !",
+        "pt": "🌍 Um jogo simples de adivinhar a bandeira!",
+        "it": "🌍 Un semplice gioco di bandiere!"
       },
       "nueva": false,
       "icon": "fa-solid fa-flag",
@@ -49,11 +67,17 @@
       "link": "https://rm.formen.cc",
       "titulo": {
         "es": "Rick and Morty Characters",
-        "en": "Rick and Morty Characters"
+        "en": "Rick and Morty Characters",
+        "fr": "Personnages de Rick et Morty",
+        "pt": "Personagens de Rick e Morty",
+        "it": "Personaggi di Rick e Morty"
       },
       "descripcion": {
         "es": "🚀 ¡Busca personajes de Rick and Morty!",
-        "en": "🚀 Find Rick and Morty characters!"
+        "en": "🚀 Find Rick and Morty characters!",
+        "fr": "🚀 Trouvez des personnages de Rick et Morty !",
+        "pt": "🚀 Encontre personagens de Rick e Morty!",
+        "it": "🚀 Trova i personaggi di Rick e Morty!"
       },
       "nueva": false,
       "icon": "fa-solid fa-user-astronaut",
@@ -64,11 +88,17 @@
       "link": "https://food.formen.cc",
       "titulo": {
         "es": "Comida",
-        "en": "Food"
+        "en": "Food",
+        "fr": "Nourriture",
+        "pt": "Comida",
+        "it": "Cibo"
       },
       "descripcion": {
         "es": "🍽️ ¡Busca información sobre comida!",
-        "en": "🍽️ Find information about food!"
+        "en": "🍽️ Find information about food!",
+        "fr": "🍽️ Trouvez des informations sur la nourriture !",
+        "pt": "🍽️ Encontre informações sobre comida!",
+        "it": "🍽️ Trova informazioni sul cibo!"
       },
       "nueva": false,
       "icon": "fa-solid fa-utensils",
@@ -79,11 +109,17 @@
       "link": "https://disney.formen.cc",
       "titulo": {
         "es": "Disney",
-        "en": "Disney"
+        "en": "Disney",
+        "fr": "Disney",
+        "pt": "Disney",
+        "it": "Disney"
       },
       "descripcion": {
         "es": "✨ ¡Busca personajes de Disney!",
-        "en": "✨ Find Disney characters!"
+        "en": "✨ Find Disney characters!",
+        "fr": "✨ Trouvez des personnages Disney !",
+        "pt": "✨ Encontre personagens da Disney!",
+        "it": "✨ Trova personaggi Disney!"
       },
       "nueva": false,
       "icon": "fa-solid fa-magic",
@@ -94,11 +130,17 @@
       "link": "https://office.formen.cc",
       "titulo": {
         "es": "The Office",
-        "en": "The Office"
+        "en": "The Office",
+        "fr": "The Office",
+        "pt": "The Office",
+        "it": "The Office"
       },
       "descripcion": {
         "es": "📋 ¡Busca personajes de The Office!",
-        "en": "📋 Find The Office characters!"
+        "en": "📋 Find The Office characters!",
+        "fr": "📋 Trouvez des personnages de The Office !",
+        "pt": "📋 Encontre personagens de The Office!",
+        "it": "📋 Trova i personaggi di The Office!"
       },
       "nueva": false,
       "icon": "fa-solid fa-briefcase",
@@ -109,11 +151,17 @@
       "link": "https://btc.formen.cc",
       "titulo": {
         "es": "Bitcoin",
-        "en": "Bitcoin"
+        "en": "Bitcoin",
+        "fr": "Bitcoin",
+        "pt": "Bitcoin",
+        "it": "Bitcoin"
       },
       "descripcion": {
         "es": "💰 ¡Obtén el valor de bitcoin en dólares!",
-        "en": "💰 Get the value of bitcoin in dollars!"
+        "en": "💰 Get the value of bitcoin in dollars!",
+        "fr": "💰 Obtenez la valeur du bitcoin en dollars !",
+        "pt": "💰 Obtenha o valor do bitcoin em dólares!",
+        "it": "💰 Ottieni il valore del bitcoin in dollari!"
       },
       "nueva": false,
       "icon": "fa-brands fa-bitcoin",
@@ -124,11 +172,17 @@
       "link": "https://paises.formen.cc",
       "titulo": {
         "es": "Buscar Paises",
-        "en": "Search Countries"
+        "en": "Search Countries",
+        "fr": "Rechercher des Pays",
+        "pt": "Buscar Países",
+        "it": "Cerca Paesi"
       },
       "descripcion": {
         "es": "🌎 ¡Busca información de distintos países!",
-        "en": "🌎 Find information about different countries!"
+        "en": "🌎 Find information about different countries!",
+        "fr": "🌎 Trouvez des informations sur différents pays !",
+        "pt": "🌎 Encontre informações sobre diferentes países!",
+        "it": "🌎 Trova informazioni su diversi paesi!"
       },
       "nueva": false,
       "icon": "fa-solid fa-globe",
@@ -139,11 +193,17 @@
       "link": "https://qr.formen.cc",
       "titulo": {
         "es": "Generador de QRs",
-        "en": "QR Generator"
+        "en": "QR Generator",
+        "fr": "Générateur de QR",
+        "pt": "Gerador de QR",
+        "it": "Generatore di QR"
       },
       "descripcion": {
         "es": "📱 ¡Crea tu propio QR!",
-        "en": "📱 Create your own QR!"
+        "en": "📱 Create your own QR!",
+        "fr": "📱 Créez votre propre QR !",
+        "pt": "📱 Crie seu próprio QR!",
+        "it": "📱 Crea il tuo QR!"
       },
       "nueva": false,
       "icon": "fa-solid fa-qrcode",
@@ -154,11 +214,17 @@
       "link": "https://clima.formen.cc",
       "titulo": {
         "es": "Clima",
-        "en": "Weather"
+        "en": "Weather",
+        "fr": "Météo",
+        "pt": "Clima",
+        "it": "Meteo"
       },
       "descripcion": {
         "es": "☀️ ¡Consulta el clima de tu ciudad de una forma interesante!",
-        "en": "☀️ Check the weather of your city in an interesting way!"
+        "en": "☀️ Check the weather of your city in an interesting way!",
+        "fr": "☀️ Consultez la météo de votre ville de manière intéressante !",
+        "pt": "☀️ Confira o clima da sua cidade de uma forma interessante!",
+        "it": "☀️ Controlla il meteo della tua città in modo interessante!"
       },
       "nueva": false,
       "icon": "fa-solid fa-cloud-sun",
@@ -169,11 +235,17 @@
       "link": "https://tip.formen.cc",
       "titulo": {
         "es": "Calculador de Propinas",
-        "en": "Tip Calculator"
+        "en": "Tip Calculator",
+        "fr": "Calculateur de Pourboires",
+        "pt": "Calculadora de Gorjetas",
+        "it": "Calcolatore di Mance"
       },
       "descripcion": {
         "es": "💵 ¡Calcula fácilmente la propina que debes dejar en tus comidas y servicios!",
-        "en": "💵 Easily calculate the tip you should leave for your meals and services!"
+        "en": "💵 Easily calculate the tip you should leave for your meals and services!",
+        "fr": "💵 Calculez facilement le pourboire que vous devez laisser pour vos repas et services !",
+        "pt": "💵 Calcule facilmente a gorjeta que você deve deixar para suas refeições e serviços!",
+        "it": "💵 Calcola facilmente la mancia che dovresti lasciare per i tuoi pasti e servizi!"
       },
       "nueva": false,
       "icon": "fa-solid fa-calculator",
@@ -184,11 +256,17 @@
       "link": "https://spacex.formen.cc",
       "titulo": {
         "es": "SpaceX",
-        "en": "SpaceX"
+        "en": "SpaceX",
+        "fr": "SpaceX",
+        "pt": "SpaceX",
+        "it": "SpaceX"
       },
       "descripcion": {
         "es": "🚀 ¡Descubre el último lanzamiento de SpaceX y explora el historial de eventos!",
-        "en": "🚀 Discover the latest SpaceX launch and explore the event history!"
+        "en": "🚀 Discover the latest SpaceX launch and explore the event history!",
+        "fr": "🚀 Découvrez le dernier lancement de SpaceX et explorez l'historique des événements !",
+        "pt": "🚀 Descubra o último lançamento da SpaceX e explore o histórico de eventos!",
+        "it": "🚀 Scopri l'ultimo lancio di SpaceX e esplora la storia degli eventi!"
       },
       "nueva": false,
       "icon": "fa-solid fa-rocket",
@@ -199,11 +277,17 @@
       "link": "https://usa.formen.cc",
       "titulo": {
         "es": "Presidentes de EE.UU.",
-        "en": "US Presidents"
+        "en": "US Presidents",
+        "fr": "Présidents des États-Unis",
+        "pt": "Presidentes dos EUA",
+        "it": "Presidenti degli USA"
       },
       "descripcion": {
         "es": "🇺🇸 ¡Explora la lista completa de todos los presidentes que ha tenido Estados Unidos!",
-        "en": "🇺🇸 Explore the complete list of all the U.S. presidents!"
+        "en": "🇺🇸 Explore the complete list of all the U.S. presidents!",
+        "fr": "🇺🇸 Explorez la liste complète de tous les présidents des États-Unis !",
+        "pt": "🇺🇸 Explore a lista completa de todos os presidentes dos EUA!",
+        "it": "🇺🇸 Esplora l'elenco completo di tutti i presidenti degli Stati Uniti!"
       },
       "nueva": false,
       "icon": "fa-solid fa-landmark",
@@ -214,11 +298,17 @@
       "link": "https://lastfm.formen.cc",
       "titulo": {
         "es": "Last.fm",
-        "en": "Last.fm"
+        "en": "Last.fm",
+        "fr": "Last.fm",
+        "pt": "Last.fm",
+        "it": "Last.fm"
       },
       "descripcion": {
         "es": "🎵 Busca la informacion de cualquier usuario de last.fm!",
-        "en": "🎵 Find the information of any Last.fm user!"
+        "en": "🎵 Find the information of any Last.fm user!",
+        "fr": "🎵 Trouvez les informations de n'importe quel utilisateur de Last.fm !",
+        "pt": "🎵 Encontre informações de qualquer usuário do Last.fm!",
+        "it": "🎵 Trova le informazioni di qualsiasi utente di Last.fm!"
       },
       "nueva": false,
       "icon": "fa-solid fa-music",
@@ -229,11 +319,17 @@
       "link": "https://taximetro.formen.cc",
       "titulo": {
         "es": "Taxímetro",
-        "en": "Taximeter"
+        "en": "Taximeter",
+        "fr": "Taximètre",
+        "pt": "Taxímetro",
+        "it": "Taximetro"
       },
       "descripcion": {
         "es": "🚖 ¡Calcula el valor que obtendrá el taxímetro al final del recorrido!",
-        "en": "🚖 Calculate the value the taximeter will display at the end of the ride!"
+        "en": "🚖 Calculate the value the taximeter will display at the end of the ride!",
+        "fr": "🚖 Calculez la valeur que le taximètre affichera à la fin de la course !",
+        "pt": "🚖 Calcule o valor que o taxímetro exibirá no final da corrida!",
+        "it": "🚖 Calcola il valore che il tassametro mostrerà alla fine della corsa!"
       },
       "nueva": false,
       "icon": "fa-solid fa-tachometer-alt",
@@ -244,11 +340,17 @@
       "link": "https://contribution-cards.netlify.app/",
       "titulo": {
         "es": "Cartas de Contribución",
-        "en": "Contribution Cards"
+        "en": "Contribution Cards",
+        "fr": "Cartes de Contribution",
+        "pt": "Cartas de Contribuição",
+        "it": "Carte di Contributo"
       },
       "descripcion": {
         "es": "🃏 ¡Explora y crea cartas de contribución!",
-        "en": "🃏 Explore and create contribution cards!"
+        "en": "🃏 Explore and create contribution cards!",
+        "fr": "🃏 Explorez et créez des cartes de contribution !",
+        "pt": "🃏 Explore e crie cartas de contribuição!",
+        "it": "🃏 Esplora e crea carte di contributo!"
       },
       "nueva": false,
       "icon": "fa-solid fa-cards",
@@ -259,11 +361,17 @@
       "link": "https://nmoji.netlify.app/",
       "titulo": {
         "es": "Buscador de Emojis",
-        "en": "Emoji Finder"
+        "en": "Emoji Finder",
+        "fr": "Chercheur d'Émojis",
+        "pt": "Buscador de Emojis",
+        "it": "Cerca Emojis"
       },
       "descripcion": {
         "es": "😊 ¡Busca y explora información sobre emojis!",
-        "en": "😊 Search and explore information about emojis!"
+        "en": "😊 Search and explore information about emojis!",
+        "fr": "😊 Recherchez et explorez des informations sur les émojis !",
+        "pt": "😊 Busque e explore informações sobre emojis!",
+        "it": "😊 Cerca ed esplora informazioni sugli emoji!"
       },
       "nueva": false,
       "icon": "fa-solid fa-smile",
@@ -274,11 +382,17 @@
       "link": "https://jackpurrin.me/",
       "titulo": {
         "es": "Información y Juegos",
-        "en": "Information and Games"
+        "en": "Information and Games",
+        "fr": "Informations et Jeux",
+        "pt": "Informações e Jogos",
+        "it": "Informazioni e Giochi"
       },
       "descripcion": {
         "es": "📚 Pagina con mucha información y juegos",
-        "en": "📚 A page with lots of information and games"
+        "en": "📚 A page with lots of information and games",
+        "fr": "📚 Une page avec beaucoup d'informations et de jeux",
+        "pt": "📚 Uma página com muita informação e jogos",
+        "it": "📚 Una pagina con tante informazioni e giochi"
       },
       "nueva": true,
       "icon": "fa-solid fa-gamepad",
