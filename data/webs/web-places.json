@@ -398,6 +398,27 @@
       "icon": "fa-solid fa-gamepad",
       "act": false,
       "contribuido": true
-    }
+    },
+    {
+    "link": "https://cronometro.retro.formen.cc",
+    "titulo": {
+      "es": "Cronómetro Retro",
+      "en": "Retro Stopwatch",
+      "fr": "Chronomètre Rétro",
+      "pt": "Cronômetro Retrô",
+      "it": "Cronometro Retro"
+    },
+    "descripcion": {
+      "es": "⏱️ ¡Un cronómetro retro al estilo de los 80s!",
+      "en": "⏱️ A retro-style stopwatch from the '80s!",
+      "fr": "⏱️ Un chronomètre rétro des années 80 !",
+      "pt": "⏱️ Um cronômetro retrô estilo anos 80!",
+      "it": "⏱️ Un cronometro retro in stile anni '80!"
+    },
+    "nueva": true,
+    "icon": "fa-solid fa-stopwatch",
+    "act": false,
+    "contribuido": false
+  }
   ]
 }
