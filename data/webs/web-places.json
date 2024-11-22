@@ -438,7 +438,7 @@
   },
   "nueva": true,
   "icon": "fa-solid fa-calculator",
-  "act": true,
+  "act": false,
   "contribuido": false
 }
   ]
