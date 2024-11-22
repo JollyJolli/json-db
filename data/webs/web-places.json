@@ -419,6 +419,27 @@
     "icon": "fa-solid fa-stopwatch",
     "act": false,
     "contribuido": false
-  }
+  },
+  {
+  "link": "https://cnpa.formen.cc",
+  "titulo": {
+    "es": "Calculador de Necesidad para Aprobar",
+    "en": "Pass Requirement Calculator",
+    "fr": "Calculateur de Besoin pour Réussir",
+    "pt": "Calculadora de Necessidade para Passar",
+    "it": "Calcolatore di Necessità per Superare"
+  },
+  "descripcion": {
+    "es": "📊 ¡Calcula cuánto necesitas para aprobar tu materia con tus calificaciones y porcentajes!",
+    "en": "📊 Calculate what you need to pass your course using your grades and percentages!",
+    "fr": "📊 Calculez ce qu'il vous faut pour réussir votre cours avec vos notes et pourcentages !",
+    "pt": "📊 Calcule o que você precisa para passar no curso com suas notas e percentuais!",
+    "it": "📊 Calcola quanto ti serve per superare il corso con i tuoi voti e percentuali!"
+  },
+  "nueva": true,
+  "icon": "fa-solid fa-calculator",
+  "act": true,
+  "contribuido": false
+}
   ]
 }
