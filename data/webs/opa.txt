@@ -1,0 +1,129 @@
+Let's make a game!
+  name:Im Simoning
+  by:Tu Nombre
+  desc:Un juego donde puedes acumular Simons, desbloquear versiones cada vez más bizarras y llevar tu amor por Simon al infinito. ¡Prepárate para Simon en el espacio!
+  created:02/12/2024
+  updated:02/12/2024
+  version:1.0
+
+Settings
+  background:assets/simonBackground.jpg
+  building cost increase:125%
+  building cost refund:60%
+  spritesheet:icons, 64 by 64, assets/simonIcons.png
+  stylesheet:assets/simonStyle.css
+
+Layout
+  use default
+
+Buttons
+  *makeSimonButton
+    name:¡Hacer un Simon!
+    desc:Presiona este botón y genera Simons. ¡Es tan simple que incluso Simon lo haría!
+    on click:anim icon spin
+    on click:yield 1 Simon
+    on click:if (have goldenSimon and chance(2%)) yield 1 goldenSimon
+    icon:assets/simonButton.png
+    class:bigButton neonGlow
+    tooltip origin:right
+    tooltip class:coolTooltip
+
+Resources
+  *Simon|Simons
+    name:Simon|Simons
+    desc:Simons normales, aburridos pero útiles. ¿Cuántos puedes hacer?
+    icon:icons[0,0]
+    show earned
+
+  *goldenSimon|goldenSimons
+    name:Simon dorado|Simons dorados
+    desc:Un Simon extremadamente raro y brillante. ¡Es más valioso que el oro!
+    icon:icons[0,1]
+    hidden when 0
+
+Buildings
+  *tinySimon
+    name:Mini Simon|Mini Simons
+    desc:Pequeños clones de Simon que generan más Simons en su tiempo libre.<//><b>Produce 1 Simon cada 5 segundos.</b>
+    icon:icons[1,0]
+    cost:10 Simons
+    on tick:yield 0.2 Simon
+    unlocked
+
+  *megaSimon
+    name:Mega Simon|Mega Simons
+    desc:Un Simon gigante que parece gritar constantemente. <//><b>Produce 5 Simons por segundo.</b>
+    icon:icons[1,1]
+    cost:100 Simons
+    on tick:yield 5 Simons
+    req:100 Simons:earned
+
+  *roboSimon
+    name:Simonbot|Simonbots
+    desc:Un Simon robot programado para hacer... más Simons. Obvio.<//><b>Produce 50 Simons por segundo.</b>
+    icon:icons[1,2]
+    cost:1000 Simons
+    on tick:yield 50 Simons
+    req:1000 Simons:earned
+
+  *spaceSimon
+    name:Simon espacial|Simons espaciales
+    desc:Un Simon que decidió conquistar el espacio. <//><b>Produce 500 Simons por segundo.</b>
+    icon:icons[1,3]
+    cost:5000 Simons, 1 goldenSimon
+    on tick:yield 500 Simons
+    req:5000 Simons:earned
+
+  *simonVerse
+    name:Simon Multiversal|Simons Multiversales
+    desc:¡Simons de todos los universos alternativos se unen para ayudarte!<//><b>Produce 5000 Simons por segundo.</b>
+    icon:icons[1,4]
+    cost:10000 Simons, 5 goldenSimons
+    on tick:yield 5000 Simons
+    req:multiverseUnlocked
+
+Upgrades
+  *goldenSmile
+    name:Sonrisa dorada
+    desc:Simons sonríen más fuerte que nunca. <//><b>+2% a la probabilidad de Simon dorado por clic.</b>
+    icon:icons[2,0]
+    cost:1 goldenSimon
+    passive:multiply click yield chance by 1.02
+    req:1 goldenSimon:earned
+
+  *quantumSimon
+    name:Simon cuántico
+    desc:¡Un Simon que existe en múltiples estados a la vez! <//><b>Simons producidos +20%.</b>
+    icon:icons[2,1]
+    cost:10 goldenSimons
+    passive:multiply yield of all Simons by 1.2
+    req:5 goldenSimons:earned
+
+Achievements
+  *firstSimon
+    name:¡Tu primer Simon!
+    desc:Genera <b>1</b> Simon.
+    req:1 Simon
+    icon:icons[3,0]
+
+  *millionaireSimon
+    name:¡Simon millonario!
+    desc:Acumula <b>1,000,000</b> Simons.
+    req:1000000 Simons
+    icon:icons[3,1]
+
+  *goldenLegend
+    name:La leyenda dorada
+    desc:Acumula <b>100</b> Simons dorados.
+    req:100 goldenSimons
+    icon:icons[3,2]
+
+Shinies
+  *randomSimonEvent
+    on click:toast ¡Un Simon aleatorio aparece y hace algo loco!
+    frequency:120
+    frequency variation:60
+    icon:assets/shinySimon.png
+    on click:
+      if (chance(50%)) yield 500 Simons
+      else toast <b>¡El Simon desaparece y se lleva tus 50 Simons!</b>.
