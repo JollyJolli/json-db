@@ -394,7 +394,7 @@
         "pt": "📚 Uma página com muita informação e jogos",
         "it": "📚 Una pagina con tante informazioni e giochi"
       },
-      "nueva": true,
+      "nueva": false,
       "icon": "fa-solid fa-gamepad",
       "act": false,
       "contribuido": true
@@ -415,7 +415,7 @@
       "pt": "⏱️ Um cronômetro retrô estilo anos 80!",
       "it": "⏱️ Un cronometro retro in stile anni '80!"
     },
-    "nueva": true,
+    "nueva": false,
     "icon": "fa-solid fa-stopwatch",
     "act": false,
     "contribuido": false
@@ -438,6 +438,27 @@
   },
   "nueva": true,
   "icon": "fa-solid fa-calculator",
+  "act": false,
+  "contribuido": false
+},
+    {
+  "link": "https://invest.formen.cc",
+  "titulo": {
+    "es": "Invest Simulator",
+    "en": "Invest Simulator",
+    "fr": "Simulateur d'Investissement",
+    "pt": "Simulador de Investimento",
+    "it": "Simulatore di Investimenti"
+  },
+  "descripcion": {
+    "es": "📈 ¡Un clicker game de inversiones! Gana dinero y crece tu fortuna.",
+    "en": "📈 A clicker game about investing! Earn money and grow your fortune.",
+    "fr": "📈 Un jeu de clics sur l'investissement ! Gagnez de l'argent et développez votre fortune.",
+    "pt": "📈 Um clicker game sobre investimentos! Ganhe dinheiro e aumente sua fortuna.",
+    "it": "📈 Un clicker game sugli investimenti! Guadagna soldi e aumenta la tua fortuna."
+  },
+  "nueva": true,
+  "icon": "fa-solid fa-chart-line",
   "act": false,
   "contribuido": false
 }
