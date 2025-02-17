@@ -436,7 +436,7 @@
     "pt": "📊 Calcule o que você precisa para passar no curso com suas notas e percentuais!",
     "it": "📊 Calcola quanto ti serve per superare il corso con i tuoi voti e percentuali!"
   },
-  "nueva": true,
+  "nueva": false,
   "icon": "fa-solid fa-calculator",
   "act": false,
   "contribuido": false
