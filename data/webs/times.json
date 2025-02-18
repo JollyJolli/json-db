@@ -1,315 +1,288 @@
 {
-    "iconos": {
-        "Ingles": "fas fa-globe-americas",
-        "ESEM": "fas fa-flask",
-        "Quimica": "fas fa-flask-vial",
-        "Recreo": "fas fa-umbrella-beach",
-        "Derecho": "fas fa-gavel",
-        "Filosofia": "fas fa-brain",
-        "Geografia": "fas fa-earth-americas",
-        "Cálculo": "fas fa-square-root-alt",
-        "Matemáticas": "fas fa-infinity",
-        "Creativity": "fas fa-palette",
-        "Computación": "fas fa-microchip",
-        "Informatica Aplicada": "fas fa-laptop-code",
-        "Economia": "fas fa-chart-line",
-        "Psicologia": "fas fa-head-side-brain",
-        "Frances": "fas fa-wine-glass",
-        "Programacion": "fas fa-code",
-        "Health": "fas fa-heart-pulse",
-        "Educación Fisica": "fas fa-dumbbell"
-    },
-    "horarios": [
-        {
-            "dia": "lunes",
-            "horario": [
-                {
-                    "periodo": "07:30-08:15",
-                    "clase": "Ingles",
-                    "salon": "206/203"
-                },
-                {
-                    "periodo": "08:15-09:00",
-                    "clase": "ESEM",
-                    "salon": "207"
-                },
-                {
-                    "periodo": "09:00-09:45",
-                    "clase": "Quimica",
-                    "salon": "208"
-                },
-                {
-                    "periodo": "09:45-10:20",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "10:20-11:05",
-                    "clase": "Derecho",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "11:05-11:50",
-                    "clase": "Filosofia",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "11:50-12:35",
-                    "clase": "Geografia",
-                    "salon": "207"
-                },
-                {
-                    "periodo": "12:35-13:00",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "13:00-13:45",
-                    "clase": "Matemáticas",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "13:45-14:30",
-                    "clase": "Creativity"
-                },
-                {
-                    "periodo": "14:30-15:15",
-                    "clase": "Salida"
-                }
-            ]
-        },
-        {
-            "dia": "martes",
-            "horario": [
-                {
-                    "periodo": "07:30-08:15",
-                    "clase": "Derecho",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "08:15-09:00",
-                    "clase": "Informatica Aplicada"
-                },
-                {
-                    "periodo": "09:00-09:45",
-                    "clase": "ESEM",
-                    "salon": "207"
-                },
-                {
-                    "periodo": "09:45-10:20",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "10:20-11:05",
-                    "clase": "Economia",
-                    "salon": "203"
-                },
-                {
-                    "periodo": "11:05-11:50",
-                    "clase": "Psicologia",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "11:50-12:35",
-                    "clase": "Frances",
-                    "salon": "202"
-                },
-                {
-                    "periodo": "12:35-13:00",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "13:00-13:45",
-                    "clase": "Matemáticas",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "13:45-14:30",
-                    "clase": "Cálculo",
-                    "salon": "202"
-                },
-                {
-                    "periodo": "14:30-15:15",
-                    "clase": "Salida"
-                }
-            ]
-        },
-        {
-            "dia": "miércoles",
-            "horario": [
-                {
-                    "periodo": "07:30-08:15",
-                    "clase": "Computación"
-                },
-                {
-                    "periodo": "08:15-09:00",
-                    "clase": "Quimica",
-                    "salon": "208"
-                },
-                {
-                    "periodo": "09:00-09:45",
-                    "clase": "Economia",
-                    "salon": "203"
-                },
-                {
-                    "periodo": "09:45-10:20",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "10:20-11:05",
-                    "clase": "ESEM",
-                    "salon": "207"
-                },
-                {
-                    "periodo": "11:05-11:50",
-                    "clase": "Informatica Aplicada"
-                },
-                {
-                    "periodo": "11:50-12:35",
-                    "clase": "Filosofia",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "12:35-13:00",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "13:00-13:45",
-                    "clase": "Ingles",
-                    "salon": "206/203"
-                },
-                {
-                    "periodo": "13:45-14:30",
-                    "clase": "Programacion",
-                    "salon": "201"
-                },
-                {
-                    "periodo": "14:30-15:15",
-                    "clase": "Salida"
-                }
-            ]
-        },
-        {
-            "dia": "jueves",
-            "horario": [
-                {
-                    "periodo": "07:30-08:15",
-                    "clase": "Geografia",
-                    "salon": "207"
-                },
-                {
-                    "periodo": "08:15-09:00",
-                    "clase": "Matematicas",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "09:00-09:45",
-                    "clase": "Filosofia",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "09:45-10:20",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "10:20-11:05",
-                    "clase": "Programacion",
-                    "salon": "201"
-                },
-                {
-                    "periodo": "11:05-11:50",
-                    "clase": "Ingles",
-                    "salon": "206/203"
-                },
-                {
-                    "periodo": "11:50-12:35",
-                    "clase": "Health",
-                    "salon": "206"
-                },
-                {
-                    "periodo": "12:35-13:00",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "13:00-13:45",
-                    "clase": "Psicologia",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "13:45-14:30",
-                    "clase": "Educación Fisica"
-                },
-                {
-                    "periodo": "14:30-15:15",
-                    "clase": "Salida"
-                }
-            ]
-        },
-        {
-            "dia": "viernes",
-            "horario": [
-                {
-                    "periodo": "07:30-08:15",
-                    "clase": "Psicologia",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "08:15-09:00",
-                    "clase": "Frances",
-                    "salon": "202"
-                },
-                {
-                    "periodo": "09:00-09:45",
-                    "clase": "Educación Fisica"
-                },
-                {
-                    "periodo": "09:45-10:20",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "10:20-11:05",
-                    "clase": "Derecho",
-                    "salon": "204"
-                },
-                {
-                    "periodo": "11:05-11:50",
-                    "clase": "Economia",
-                    "salon": "203"
-                },
-                {
-                    "periodo": "11:50-12:35",
-                    "clase": "Geografia",
-                    "salon": "207"
-                },
-                {
-                    "periodo": "12:35-13:00",
-                    "clase": "Recreo"
-                },
-                {
-                    "periodo": "13:00-13:45",
-                    "clase": "Cálculo",
-                    "salon": "202"
-                },
-                {
-                    "periodo": "13:45-14:30",
-                    "clase": "Computación"
-                },
-                {
-                    "periodo": "14:30-15:15",
-                    "clase": "Salida"
-                }
-            ]
-        },
-        {
-            "dia": "sabado",
-            "horario": [
-                {
-                    "periodo": "01:40-23:00",
-                    "clase": "Es fin de semana q buscas"
-                }
-            ]
-        },
-        {
-            "dia": "domingo",
-            "horario": []
-        }
-    ]
+   "iconos":{
+      "Historia Universal":"fas fa-landmark",
+      "Educación Física":"fas fa-running",
+      "Páginas Web":"fas fa-laptop-code",
+      "Recreo":"fas fa-coffee",
+      "English":"fas fa-globe-americas",
+      "Psicología":"fas fa-brain",
+      "Economía":"fas fa-chart-line",
+      "Francés":"fas fa-language",
+      "Cálculo":"fas fa-square-root-alt",
+      "Diseño Digital":"fas fa-paint-brush",
+      "Matemáticas":"fas fa-square-root-alt",
+      "Derecho":"fas fa-gavel",
+      "Ecología":"fas fa-seedling",
+      "Físicoquímica":"fas fa-flask",
+      "Informática Aplicada":"fas fa-desktop",
+      "Salud":"fas fa-heartbeat",
+      "Filosofía":"fas fa-book",
+      "Creativity":"fas fa-lightbulb"
+   },
+   "horarios":[
+      {
+         "dia":"lunes",
+         "horario":[
+            {
+               "periodo":"07:30-08:15",
+               "clase":"Diseño Digital",
+               "salon":"204"
+            },
+            {
+               "periodo":"08:15-09:00",
+               "clase":"Matemáticas",
+               "salon":"201"
+            },
+            {
+               "periodo":"09:00-09:45",
+               "clase":"Ecología",
+               "salon":"206"
+            },
+            {
+               "periodo":"09:45-10:20",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"10:20-11:05",
+               "clase":"Educación Física",
+               "salon":"Canchas"
+            },
+            {
+               "periodo":"11:05-11:50",
+               "clase":"Economía",
+               "salon":"207"
+            },
+            {
+               "periodo":"11:50-12:35",
+               "clase":"Filosofía",
+               "salon":"208"
+            },
+            {
+               "periodo":"12:35-13:00",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"13:00-13:45",
+               "clase":"Informática Aplicada",
+               "salon":"Computación"
+            },
+            {
+               "periodo":"13:45-14:30",
+               "clase":"Historia Universal",
+               "salon":"207"
+            }
+         ]
+      },
+      {
+         "dia":"martes",
+         "horario":[
+            {
+               "periodo":"07:30-08:15",
+               "clase":"Historia Universal",
+               "salon":"207"
+            },
+            {
+               "periodo":"08:15-09:00",
+               "clase":"Educación Física",
+               "salon":"Canchas"
+            },
+            {
+               "periodo":"09:00-09:45",
+               "clase":"Páginas Web",
+               "salon":"Computación"
+            },
+            {
+               "periodo":"09:45-10:20",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"10:20-11:05",
+               "clase":"English",
+               "salon":"202/203"
+            },
+            {
+               "periodo":"11:05-11:50",
+               "clase":"Psicología",
+               "salon":"208"
+            },
+            {
+               "periodo":"11:50-12:35",
+               "clase":"Economía",
+               "salon":"207"
+            },
+            {
+               "periodo":"12:35-13:00",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"13:00-13:45",
+               "clase":"Francés",
+               "salon":"203"
+            },
+            {
+               "periodo":"13:45-14:30",
+               "clase":"Cálculo",
+               "salon":"201"
+            }
+         ]
+      },
+      {
+         "dia":"miércoles",
+         "horario":[
+            {
+               "periodo":"07:30-08:15",
+               "clase":"Historia Universal",
+               "salon":"207"
+            },
+            {
+               "periodo":"08:15-09:00",
+               "clase":"Derecho",
+               "salon":"204"
+            },
+            {
+               "periodo":"09:00-09:45",
+               "clase":"Diseño Digital",
+               "salon":"204"
+            },
+            {
+               "periodo":"09:45-10:20",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"10:20-11:05",
+               "clase":"English",
+               "salon":"202/203"
+            },
+            {
+               "periodo":"11:05-11:50",
+               "clase":"Cálculo",
+               "salon":"201"
+            },
+            {
+               "periodo":"11:50-12:35",
+               "clase":"Filosofía",
+               "salon":"208"
+            },
+            {
+               "periodo":"12:35-13:00",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"13:00-13:45",
+               "clase":"Francés",
+               "salon":"203"
+            },
+            {
+               "periodo":"13:45-14:30",
+               "clase":"Psicología",
+               "salon":"208"
+            }
+         ]
+      },
+      {
+         "dia":"jueves",
+         "horario":[
+            {
+               "periodo":"07:30-08:15",
+               "clase":"Físicoquímica",
+               "salon":"202"
+            },
+            {
+               "periodo":"08:15-09:00",
+               "clase":"Psicología",
+               "salon":"208"
+            },
+            {
+               "periodo":"09:00-09:45",
+               "clase":"Matemáticas",
+               "salon":"201"
+            },
+            {
+               "periodo":"09:45-10:20",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"10:20-11:05",
+               "clase":"Economía",
+               "salon":"207"
+            },
+            {
+               "periodo":"11:05-11:50",
+               "clase":"Páginas Web",
+               "salon":"Computación"
+            },
+            {
+               "periodo":"11:50-12:35",
+               "clase":"English",
+               "salon":"202/203"
+            },
+            {
+               "periodo":"12:35-13:00",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"13:00-13:45",
+               "clase":"Derecho",
+               "salon":"204"
+            },
+            {
+               "periodo":"13:45-14:30",
+               "clase":"Creativity"
+            }
+         ]
+      },
+      {
+         "dia":"viernes",
+         "horario":[
+            {
+               "periodo":"07:30-08:15",
+               "clase":"Filosofia",
+               "salon":"208"
+            },
+            {
+               "periodo":"08:15-09:00",
+               "clase":"Ecología",
+               "salon":"206"
+            },
+            {
+               "periodo":"09:00-09:45",
+               "clase":"Físicoquímica",
+               "salon":"202"
+            },
+            {
+               "periodo":"09:45-10:20",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"10:20-11:05",
+               "clase":"Informática Aplicada",
+               "salon":"Computación"
+            },
+            {
+               "periodo":"11:05-11:50",
+               "clase":"Salud",
+               "salon":"202"
+            },
+            {
+               "periodo":"11:50-12:35",
+               "clase":"Derecho",
+               "salon":"204"
+            },
+            {
+               "periodo":"12:35-13:00",
+               "clase":"Recreo"
+            },
+            {
+               "periodo":"13:00-13:45",
+               "clase":"Ecología",
+               "salon":"206"
+            },
+            {
+               "periodo":"13:45-14:30",
+               "clase":"Matemáticas",
+               "salon":"201"
+            }
+         ]
+      }
+   ]
 }
