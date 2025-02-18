@@ -17,7 +17,8 @@
       "Informática Aplicada":"fas fa-desktop",
       "Salud":"fas fa-heartbeat",
       "Filosofía":"fas fa-book",
-      "Creativity":"fas fa-lightbulb"
+      "Creativity":"fas fa-lightbulb",
+      "Salida":"fas fa-door-open"
    },
    "horarios":[
       {
@@ -70,6 +71,10 @@
                "periodo":"13:45-14:30",
                "clase":"Historia Universal",
                "salon":"207"
+            },
+            {
+               "periodo":"14:30-13:00",
+               "clase":"Salida"
             }
          ]
       },
@@ -123,6 +128,10 @@
                "periodo":"13:45-14:30",
                "clase":"Cálculo",
                "salon":"201"
+            },
+            {
+               "periodo":"14:30-13:00",
+               "clase":"Salida"
             }
          ]
       },
@@ -176,6 +185,10 @@
                "periodo":"13:45-14:30",
                "clase":"Psicología",
                "salon":"208"
+            },
+            {
+               "periodo":"14:30-13:00",
+               "clase":"Salida"
             }
          ]
       },
@@ -228,6 +241,10 @@
             {
                "periodo":"13:45-14:30",
                "clase":"Creativity"
+            },
+            {
+               "periodo":"14:30-13:00",
+               "clase":"Salida"
             }
          ]
       },
@@ -281,6 +298,10 @@
                "periodo":"13:45-14:30",
                "clase":"Matemáticas",
                "salon":"201"
+            },
+            {
+               "periodo":"14:30-13:00",
+               "clase":"Salida"
             }
          ]
       }
