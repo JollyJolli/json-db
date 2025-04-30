@@ -461,6 +461,69 @@
   "icon": "fa-solid fa-chart-line",
   "act": false,
   "contribuido": false
-}
+},
+    {
+    "link": "https://sortviz.formen.cc/",
+    "titulo": {
+      "es": "Visualizador de Algoritmos de Ordenamiento",
+      "en": "Sorting Algorithm Visualizer",
+      "fr": "Visualiseur d’Algorithmes de Tri",
+      "pt": "Visualizador de Algoritmos de Ordenação",
+      "it": "Visualizzatore di Algoritmi di Ordinamento"
+    },
+    "descripcion": {
+      "es": "🔢 Visualiza cómo funcionan los algoritmos de ordenamiento.",
+      "en": "🔢 Visualize how sorting algorithms work.",
+      "fr": "🔢 Visualisez le fonctionnement des algorithmes de tri.",
+      "pt": "🔢 Visualize como funcionam os algoritmos de ordenação.",
+      "it": "🔢 Visualizza come funzionano gli algoritmi di ordinamento."
+    },
+    "nueva": false,
+    "icon": "fa-solid fa-arrow-down-a-z",
+    "act": false,
+    "contribuido": true
+  },
+  {
+    "link": "https://mazeviz.formen.cc/",
+    "titulo": {
+      "es": "Visualizador de Laberintos",
+      "en": "Maze Solver Visualizer",
+      "fr": "Visualiseur de Labyrinthes",
+      "pt": "Visualizador de Labirintos",
+      "it": "Visualizzatore di Labirinti"
+    },
+    "descripcion": {
+      "es": "🧩 Descubre cómo se resuelven los laberintos paso a paso.",
+      "en": "🧩 See how maze-solving algorithms work step by step.",
+      "fr": "🧩 Découvrez le fonctionnement des algorithmes de résolution de labyrinthes.",
+      "pt": "🧩 Veja como funcionam os algoritmos de resolução de labirintos.",
+      "it": "🧩 Scopri come funzionano gli algoritmi per risolvere i labirinti."
+    },
+    "nueva": false,
+    "icon": "fa-solid fa-route",
+    "act": false,
+    "contribuido": true
+  },
+  {
+    "link": "https://descuentos.formen.cc/",
+    "titulo": {
+      "es": "Calculadora de Descuentos",
+      "en": "Discount Calculator",
+      "fr": "Calculateur de Réductions",
+      "pt": "Calculadora de Descontos",
+      "it": "Calcolatore di Sconti"
+    },
+    "descripcion": {
+      "es": "💸 Calcula descuentos de forma rápida y sencilla.",
+      "en": "💸 Quickly calculate discounts with ease.",
+      "fr": "💸 Calculez rapidement des réductions facilement.",
+      "pt": "💸 Calcule descontos de forma rápida e fácil.",
+      "it": "💸 Calcola sconti in modo rapido e semplice."
+    },
+    "nueva": false,
+    "icon": "fa-solid fa-percent",
+    "act": false,
+    "contribuido": true
+  }
   ]
 }
